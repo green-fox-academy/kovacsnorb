@@ -1,0 +1,34 @@
+body {
+  border: solid #4285F4;
+  border-width: 16px;
+  width: 336px;
+}
+
+p {
+  display: block;
+  font-size: 36px;
+  color: white;
+  font-family: sans-serif;
+  margin: 0px;
+  width: 208px;
+  height: 76px;
+  padding-left: 128px;
+  padding-top: 52px;
+}
+
+body p:nth-child(1) {
+  background: #E67676;
+}
+
+body p:nth-child(2) {
+  background: #F2EF61;
+}
+
+body p:nth-child(3) {
+  background: #A9E6E6;
+}
+
+body p:nth-child(4) {
+  background: #7692E4;
+}
+
