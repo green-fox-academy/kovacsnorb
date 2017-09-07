@@ -1,0 +1,33 @@
+h1 {
+  color: #FF7B5C;
+  font-size: 1.75em;
+  padding-bottom: 0;
+  margin-bottom: 0;
+
+}
+
+h2 {
+  color: #8A2BE2;
+  font-size: 1.25em;
+  margin-top: 8px;
+}
+
+ul {
+  font-size: 0.9em;
+}
+
+ol {
+  list-style-type: upper-roman;
+  color: #FF6DFF;
+  text-decoration: underline;
+}
+
+ol li:last-of-type {
+  color:black;
+  text-decoration: underline;
+}
+
+article {
+  font-size: 0.9em;
+}
+
