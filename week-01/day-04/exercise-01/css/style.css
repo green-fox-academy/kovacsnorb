@@ -1,0 +1,12 @@
+div {
+  display: block;
+  font-size: 36px;
+  height: 133px;
+  width: 348px;
+  padding: 22px 18px 22px 18px;
+  margin: 8px 6px 8px 6px;
+  border-width: 5px;
+  border: solid #7DCE94;
+  color: #005566;
+  background: #0E91A1;
+}
