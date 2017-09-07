@@ -1,3 +1,30 @@
-p {
-  color: blue;
+body div {
+  display: inline-block;
+  color: white;
+  font-size: 36px;
+  font-family: sans-serif;
+  height: 256px;
+  width: 348px;
+  border: solid #4285F4;
+  border-width: 15px;
+  padding: 0px;
+}
+
+body div p {
+  padding-left: 129px;
+  padding-top: 26px;
+}
+
+body div:first-child {
+  background: #E67676;
+}
+
+body div:last-child {
+  background: #A9E6E6;
+}
+
+h6 {
+  height: 5px;
+  padding: 0;
+  margin: 0;
 }
