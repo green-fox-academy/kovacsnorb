@@ -28,7 +28,7 @@ form {
   padding: 10px;
   margin: 10px 0 10px 0;
   background-color: #DCD6CD;
-  height: 300px;
+  height: 400px;
   width: 298px;
   float: left;
 }
@@ -37,7 +37,7 @@ form {
   padding: 10px;
   margin: 10px 0 10px 0;
   background-color: #DCD6CD;
-  height: 300px;
+  height: 400px;
   width: 298px;
   float: right;
 }
@@ -45,7 +45,7 @@ form {
 .footer {
   padding: 10px;
   margin: 15px 0 15px 0;
-  background-color: #FFE42E;
+  background-color: #DCD6CD;
   height: 200px;
   width: 620px;
   display: inline-block;
@@ -58,21 +58,23 @@ form {
 }
 
 .left-box div:first-child {
-  border: 2px solid black;
-  height: 40px;
+  border: 1px solid black;
+  height: 200px;
   width: 145px;
   float: left;
+  margin: 15px 0 0 0;
 }
 
 .left-box div:last-child {
-  border: 2px solid black;
-  height: 40px;
+  border: 1px solid black;
+  height: 200px;
   width: 145px;
   float: right;
+  margin: 15px 0 0 0;
 }
 
 .left-normal:last-of-type {
-  border: 2px solid black;
+  border: 1px solid black;
   height: 90px;
   width: 295px;
 }
@@ -109,8 +111,39 @@ input[type="url"] {
   width: 295px;
 }
 
+input[type="submit"] {
+  width: 250px;
+  height: 40px;
+  color: #5D566F;
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.5);
+  border-radius: 5px;
+  margin: auto;
+  border: 1px solid #5D566F;
+  font-weight: 900;
+}
+
+textarea {
+  border-radius: 5px;
+  height: 150px;
+  padding-left: 5px;
+  width: 615px;
+  color: #5D566F;
+  font-size: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .column-text-input::after {
   content: "*";
   color: red;
   font-size: 15px;
 }
+
+select {
+  border-radius: 5px;
+  height: 25px;
+  padding-left: 5px;
+  width: 305px;
+  color: #5D566F;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
