@@ -1,0 +1,34 @@
+form {
+  box-sizing: border-box;
+  background-color: #127731;
+  height: 300px;
+  width: 640px;
+  margin: auto;
+}
+
+form div:first-of-type {
+  padding: 10px;
+  margin: 15px 0 15px 0;
+  background-color: #FFE42E;
+  height: 15px;
+  width: 620px;
+  display: inline-block;
+}
+
+form div:nth-of-type(2) {
+  padding: 10px;
+  margin: 10px 0 10px 0;
+  background-color: #DCD6CD;
+  height: 15px;
+  width: 298px;
+  display: inline-block;
+}
+
+form div:nth-of-type(3) {
+  padding: 10px;
+  margin: 10px 0 10px 0;
+  background-color: red;
+  height: 15px;
+  width: 298px;
+  display: inline-block;
+}
