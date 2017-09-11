@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\bin\Debug\netcoreapp1.1\12-Cuboid.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\bin\Debug\netcoreapp1.1\12-Cuboid.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\bin\Debug\netcoreapp1.1\12-Cuboid.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\bin\Debug\netcoreapp1.1\12-Cuboid.dll
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\bin\Debug\netcoreapp1.1\12-Cuboid.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\obj\Debug\netcoreapp1.1\12-Cuboid.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\obj\Debug\netcoreapp1.1\12-Cuboid.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\obj\Debug\netcoreapp1.1\12-Cuboid.dll
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\obj\Debug\netcoreapp1.1\12-Cuboid.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\12-Cuboid\12-Cuboid\obj\Debug\netcoreapp1.1\12-Cuboid.csprojResolveAssemblyReference.cache
