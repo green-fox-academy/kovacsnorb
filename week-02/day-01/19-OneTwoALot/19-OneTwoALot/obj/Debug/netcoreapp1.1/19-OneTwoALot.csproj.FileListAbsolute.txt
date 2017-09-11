@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\bin\Debug\netcoreapp1.1\19-OneTwoALot.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\bin\Debug\netcoreapp1.1\19-OneTwoALot.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\bin\Debug\netcoreapp1.1\19-OneTwoALot.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\bin\Debug\netcoreapp1.1\19-OneTwoALot.dll
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\bin\Debug\netcoreapp1.1\19-OneTwoALot.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\obj\Debug\netcoreapp1.1\19-OneTwoALot.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\obj\Debug\netcoreapp1.1\19-OneTwoALot.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\obj\Debug\netcoreapp1.1\19-OneTwoALot.dll
+C:\greenfox\kovacsnorb\week-02\day-01\19-OneTwoALot\19-OneTwoALot\obj\Debug\netcoreapp1.1\19-OneTwoALot.pdb
