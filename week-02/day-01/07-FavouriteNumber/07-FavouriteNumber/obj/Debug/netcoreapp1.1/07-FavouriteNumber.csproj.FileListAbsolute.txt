@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\bin\Debug\netcoreapp1.1\07-FavouriteNumber.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\bin\Debug\netcoreapp1.1\07-FavouriteNumber.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\bin\Debug\netcoreapp1.1\07-FavouriteNumber.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\bin\Debug\netcoreapp1.1\07-FavouriteNumber.dll
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\bin\Debug\netcoreapp1.1\07-FavouriteNumber.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\obj\Debug\netcoreapp1.1\07-FavouriteNumber.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\obj\Debug\netcoreapp1.1\07-FavouriteNumber.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\obj\Debug\netcoreapp1.1\07-FavouriteNumber.dll
+C:\greenfox\kovacsnorb\week-02\day-01\07-FavouriteNumber\07-FavouriteNumber\obj\Debug\netcoreapp1.1\07-FavouriteNumber.pdb
