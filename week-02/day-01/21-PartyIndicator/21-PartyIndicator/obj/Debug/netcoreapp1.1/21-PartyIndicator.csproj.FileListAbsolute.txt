@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\bin\Debug\netcoreapp1.1\21-PartyIndicator.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\bin\Debug\netcoreapp1.1\21-PartyIndicator.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\bin\Debug\netcoreapp1.1\21-PartyIndicator.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\bin\Debug\netcoreapp1.1\21-PartyIndicator.dll
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\bin\Debug\netcoreapp1.1\21-PartyIndicator.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\obj\Debug\netcoreapp1.1\21-PartyIndicator.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\obj\Debug\netcoreapp1.1\21-PartyIndicator.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\obj\Debug\netcoreapp1.1\21-PartyIndicator.dll
+C:\greenfox\kovacsnorb\week-02\day-01\21-PartyIndicator\21-PartyIndicator\obj\Debug\netcoreapp1.1\21-PartyIndicator.pdb
