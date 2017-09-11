@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\bin\Debug\netcoreapp1.1\09-Bmi.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\bin\Debug\netcoreapp1.1\09-Bmi.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\bin\Debug\netcoreapp1.1\09-Bmi.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\bin\Debug\netcoreapp1.1\09-Bmi.dll
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\bin\Debug\netcoreapp1.1\09-Bmi.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\obj\Debug\netcoreapp1.1\09-Bmi.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\obj\Debug\netcoreapp1.1\09-Bmi.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\obj\Debug\netcoreapp1.1\09-Bmi.dll
+C:\greenfox\kovacsnorb\week-02\day-01\09-Bmi\09-Bmi\obj\Debug\netcoreapp1.1\09-Bmi.pdb
