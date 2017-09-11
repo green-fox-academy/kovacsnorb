@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\bin\Debug\netcoreapp1.1\16-AnimalsAndLegs.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\bin\Debug\netcoreapp1.1\16-AnimalsAndLegs.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\bin\Debug\netcoreapp1.1\16-AnimalsAndLegs.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\bin\Debug\netcoreapp1.1\16-AnimalsAndLegs.dll
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\bin\Debug\netcoreapp1.1\16-AnimalsAndLegs.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\obj\Debug\netcoreapp1.1\16-AnimalsAndLegs.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\obj\Debug\netcoreapp1.1\16-AnimalsAndLegs.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\obj\Debug\netcoreapp1.1\16-AnimalsAndLegs.dll
+C:\greenfox\kovacsnorb\week-02\day-01\16-AnimalsAndLegs\16-AnimalsAndLegs\obj\Debug\netcoreapp1.1\16-AnimalsAndLegs.pdb
