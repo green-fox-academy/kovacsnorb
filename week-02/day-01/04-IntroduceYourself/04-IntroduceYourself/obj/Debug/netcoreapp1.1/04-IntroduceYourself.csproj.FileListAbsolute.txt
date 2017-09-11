@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\bin\Debug\netcoreapp1.1\04-IntroduceYourself.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\bin\Debug\netcoreapp1.1\04-IntroduceYourself.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\bin\Debug\netcoreapp1.1\04-IntroduceYourself.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\bin\Debug\netcoreapp1.1\04-IntroduceYourself.dll
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\bin\Debug\netcoreapp1.1\04-IntroduceYourself.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\obj\Debug\netcoreapp1.1\04-IntroduceYourself.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\obj\Debug\netcoreapp1.1\04-IntroduceYourself.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\obj\Debug\netcoreapp1.1\04-IntroduceYourself.dll
+C:\greenfox\kovacsnorb\week-02\day-01\04-IntroduceYourself\04-IntroduceYourself\obj\Debug\netcoreapp1.1\04-IntroduceYourself.pdb

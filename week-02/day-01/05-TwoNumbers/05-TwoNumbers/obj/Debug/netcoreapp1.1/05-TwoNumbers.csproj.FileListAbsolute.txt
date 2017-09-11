@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\bin\Debug\netcoreapp1.1\05-TwoNumbers.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\bin\Debug\netcoreapp1.1\05-TwoNumbers.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\bin\Debug\netcoreapp1.1\05-TwoNumbers.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\bin\Debug\netcoreapp1.1\05-TwoNumbers.dll
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\bin\Debug\netcoreapp1.1\05-TwoNumbers.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\obj\Debug\netcoreapp1.1\05-TwoNumbers.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\obj\Debug\netcoreapp1.1\05-TwoNumbers.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\obj\Debug\netcoreapp1.1\05-TwoNumbers.dll
+C:\greenfox\kovacsnorb\week-02\day-01\05-TwoNumbers\05-TwoNumbers\obj\Debug\netcoreapp1.1\05-TwoNumbers.pdb

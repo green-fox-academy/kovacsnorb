@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\bin\Debug\netcoreapp1.1\06-CodingHours.cs.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\bin\Debug\netcoreapp1.1\06-CodingHours.cs.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\bin\Debug\netcoreapp1.1\06-CodingHours.cs.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\bin\Debug\netcoreapp1.1\06-CodingHours.cs.dll
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\bin\Debug\netcoreapp1.1\06-CodingHours.cs.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\obj\Debug\netcoreapp1.1\06-CodingHours.cs.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\obj\Debug\netcoreapp1.1\06-CodingHours.cs.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\obj\Debug\netcoreapp1.1\06-CodingHours.cs.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\obj\Debug\netcoreapp1.1\06-CodingHours.cs.dll
+C:\greenfox\kovacsnorb\week-02\day-01\06-CodingHours.cs\06-CodingHours.cs\obj\Debug\netcoreapp1.1\06-CodingHours.cs.pdb
