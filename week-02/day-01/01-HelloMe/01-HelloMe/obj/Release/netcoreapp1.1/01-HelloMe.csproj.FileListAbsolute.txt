@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\bin\Release\netcoreapp1.1\01-HelloMe.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\bin\Release\netcoreapp1.1\01-HelloMe.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\bin\Release\netcoreapp1.1\01-HelloMe.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\bin\Release\netcoreapp1.1\01-HelloMe.dll
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\bin\Release\netcoreapp1.1\01-HelloMe.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\obj\Release\netcoreapp1.1\01-HelloMe.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\obj\Release\netcoreapp1.1\01-HelloMe.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\obj\Release\netcoreapp1.1\01-HelloMe.dll
+C:\greenfox\kovacsnorb\week-02\day-01\01-HelloMe\01-HelloMe\obj\Release\netcoreapp1.1\01-HelloMe.pdb

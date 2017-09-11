@@ -6,7 +6,9 @@ namespace _01_HelloMe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Modify this program to greet you instead of the World!
+            Console.WriteLine("Hello, Norbi!");
+            Console.ReadLine();
         }
     }
 }
