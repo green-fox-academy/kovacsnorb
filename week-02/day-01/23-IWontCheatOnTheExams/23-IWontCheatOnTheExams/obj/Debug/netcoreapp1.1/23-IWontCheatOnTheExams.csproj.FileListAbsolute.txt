@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\bin\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\bin\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\bin\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\bin\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.dll
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\bin\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\obj\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\obj\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\obj\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\obj\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.dll
+C:\greenfox\kovacsnorb\week-02\day-01\23-IWontCheatOnTheExams\23-IWontCheatOnTheExams\obj\Debug\netcoreapp1.1\23-IWontCheatOnTheExams.pdb

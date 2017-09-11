@@ -6,68 +6,24 @@ namespace test
     {
         static void Main(string[] args)
         {
-            int a = 13;
-
-            if (a == 13)
+            Console.WriteLine("while loop");
+            int a = 0;
+            while (a < 10)
             {
-                // this block will run
-                Console.WriteLine("Yaaay! The value of the \"a\" variable is 13");
+                Console.WriteLine(a++);
             }
 
-            if (a == 8)
+            Console.WriteLine("\n\n do while loop:");
+            int b = 0;
+            do
             {
-                // this block will NOT run
-                Console.WriteLine("Yaaay! The value of the \"a\" variable is 8");
-            }
+                Console.WriteLine(b++);
+            } while (b < 10);
 
-
-            int b = 20;
-
-            if (b < 10)
+            Console.WriteLine("\n\n for loop:");
+            for (int i = 0; i < 10; i++)
             {
-                // this block will NOT run
-                Console.WriteLine("Yaaay! The value of the \"b\" variable is lower than 10");
-            }
-            else
-            {
-                // this block will run
-                Console.WriteLine("Yaaay! The value of the \"b\" variable is higher than 10");
-            }
-
-
-            int c = 15;
-
-            if (c < 10)
-            {
-                // this block will NOT run
-                Console.WriteLine("Yaaay! The value of the \"b\" variable is lower than 10");
-            }
-            else if (c < 20)
-            {
-                // this block will run
-                Console.WriteLine("Yaaay! The value of the \"b\" variable is higher than 10 but less then 20");
-            }
-            else
-            {
-                // this block will NOT run
-                Console.WriteLine("Yaaay! The value of the \"b\" variable is higher than 10");
-            }
-
-
-            bool thirsty = true;
-            bool hungry = false;
-
-            if (thirsty && hungry)
-            {
-                Console.WriteLine("Lunch time!");
-            }
-            else if (thirsty || hungry)
-            {
-                Console.WriteLine("Snack time!");
-            }
-            else
-            {
-                Console.WriteLine("No food for you, little fatty.");
+                Console.WriteLine(i);
             }
 
             Console.ReadLine();
