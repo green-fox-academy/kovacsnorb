@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\bin\Debug\netcoreapp1.1\15-MileToKmConverter.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\bin\Debug\netcoreapp1.1\15-MileToKmConverter.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\bin\Debug\netcoreapp1.1\15-MileToKmConverter.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\bin\Debug\netcoreapp1.1\15-MileToKmConverter.dll
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\bin\Debug\netcoreapp1.1\15-MileToKmConverter.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\obj\Debug\netcoreapp1.1\15-MileToKmConverter.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\obj\Debug\netcoreapp1.1\15-MileToKmConverter.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\obj\Debug\netcoreapp1.1\15-MileToKmConverter.dll
+C:\greenfox\kovacsnorb\week-02\day-01\15-MileToKmConverter\15-MileToKmConverter\obj\Debug\netcoreapp1.1\15-MileToKmConverter.pdb
