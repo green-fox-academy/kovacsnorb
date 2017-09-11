@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\bin\Debug\netcoreapp1.1\02-HumptyDumpty.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\bin\Debug\netcoreapp1.1\02-HumptyDumpty.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\bin\Debug\netcoreapp1.1\02-HumptyDumpty.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\bin\Debug\netcoreapp1.1\02-HumptyDumpty.dll
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\bin\Debug\netcoreapp1.1\02-HumptyDumpty.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\obj\Debug\netcoreapp1.1\02-HumptyDumpty.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\obj\Debug\netcoreapp1.1\02-HumptyDumpty.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\obj\Debug\netcoreapp1.1\02-HumptyDumpty.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\obj\Debug\netcoreapp1.1\02-HumptyDumpty.dll
+C:\greenfox\kovacsnorb\week-02\day-01\02-HumptyDumpty\02-HumptyDumpty\obj\Debug\netcoreapp1.1\02-HumptyDumpty.pdb
