@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\bin\Debug\netcoreapp1.1\11-VariableMutation.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\bin\Debug\netcoreapp1.1\11-VariableMutation.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\bin\Debug\netcoreapp1.1\11-VariableMutation.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\obj\Debug\netcoreapp1.1\11-VariableMutation.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\obj\Debug\netcoreapp1.1\11-VariableMutation.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\obj\Debug\netcoreapp1.1\11-VariableMutation.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\bin\Debug\netcoreapp1.1\11-VariableMutation.dll
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\bin\Debug\netcoreapp1.1\11-VariableMutation.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\obj\Debug\netcoreapp1.1\11-VariableMutation.dll
+C:\greenfox\kovacsnorb\week-02\day-01\11-VariableMutation\11-VariableMutation\obj\Debug\netcoreapp1.1\11-VariableMutation.pdb
