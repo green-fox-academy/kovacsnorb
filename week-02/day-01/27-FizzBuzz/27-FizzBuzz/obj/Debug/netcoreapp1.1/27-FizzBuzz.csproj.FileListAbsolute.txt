@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\bin\Debug\netcoreapp1.1\27-FizzBuzz.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\bin\Debug\netcoreapp1.1\27-FizzBuzz.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\bin\Debug\netcoreapp1.1\27-FizzBuzz.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\bin\Debug\netcoreapp1.1\27-FizzBuzz.dll
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\bin\Debug\netcoreapp1.1\27-FizzBuzz.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\obj\Debug\netcoreapp1.1\27-FizzBuzz.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\obj\Debug\netcoreapp1.1\27-FizzBuzz.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\obj\Debug\netcoreapp1.1\27-FizzBuzz.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\obj\Debug\netcoreapp1.1\27-FizzBuzz.dll
+C:\greenfox\kovacsnorb\week-02\day-01\27-FizzBuzz\27-FizzBuzz\obj\Debug\netcoreapp1.1\27-FizzBuzz.pdb
