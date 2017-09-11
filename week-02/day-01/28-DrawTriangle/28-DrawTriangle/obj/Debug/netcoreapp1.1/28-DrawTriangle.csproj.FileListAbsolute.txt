@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\bin\Debug\netcoreapp1.1\28-DrawTriangle.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\bin\Debug\netcoreapp1.1\28-DrawTriangle.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\bin\Debug\netcoreapp1.1\28-DrawTriangle.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\bin\Debug\netcoreapp1.1\28-DrawTriangle.dll
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\bin\Debug\netcoreapp1.1\28-DrawTriangle.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\obj\Debug\netcoreapp1.1\28-DrawTriangle.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\obj\Debug\netcoreapp1.1\28-DrawTriangle.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\obj\Debug\netcoreapp1.1\28-DrawTriangle.dll
+C:\greenfox\kovacsnorb\week-02\day-01\28-DrawTriangle\28-DrawTriangle\obj\Debug\netcoreapp1.1\28-DrawTriangle.pdb
