@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\bin\Debug\netcoreapp1.1\10-DefineBasicInfo.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\bin\Debug\netcoreapp1.1\10-DefineBasicInfo.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\bin\Debug\netcoreapp1.1\10-DefineBasicInfo.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\bin\Debug\netcoreapp1.1\10-DefineBasicInfo.dll
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\bin\Debug\netcoreapp1.1\10-DefineBasicInfo.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\obj\Debug\netcoreapp1.1\10-DefineBasicInfo.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\obj\Debug\netcoreapp1.1\10-DefineBasicInfo.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\obj\Debug\netcoreapp1.1\10-DefineBasicInfo.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\obj\Debug\netcoreapp1.1\10-DefineBasicInfo.dll
+C:\greenfox\kovacsnorb\week-02\day-01\10-DefineBasicInfo\10-DefineBasicInfo\obj\Debug\netcoreapp1.1\10-DefineBasicInfo.pdb
