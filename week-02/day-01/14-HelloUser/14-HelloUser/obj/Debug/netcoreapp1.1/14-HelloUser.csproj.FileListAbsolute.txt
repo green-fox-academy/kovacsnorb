@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\bin\Debug\netcoreapp1.1\14-HelloUser.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\bin\Debug\netcoreapp1.1\14-HelloUser.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\bin\Debug\netcoreapp1.1\14-HelloUser.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\bin\Debug\netcoreapp1.1\14-HelloUser.dll
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\bin\Debug\netcoreapp1.1\14-HelloUser.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\obj\Debug\netcoreapp1.1\14-HelloUser.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\obj\Debug\netcoreapp1.1\14-HelloUser.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\obj\Debug\netcoreapp1.1\14-HelloUser.dll
+C:\greenfox\kovacsnorb\week-02\day-01\14-HelloUser\14-HelloUser\obj\Debug\netcoreapp1.1\14-HelloUser.pdb
