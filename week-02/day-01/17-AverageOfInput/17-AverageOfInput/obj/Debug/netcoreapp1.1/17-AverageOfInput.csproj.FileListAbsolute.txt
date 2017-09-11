@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\bin\Debug\netcoreapp1.1\17-AverageOfInput.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\bin\Debug\netcoreapp1.1\17-AverageOfInput.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\bin\Debug\netcoreapp1.1\17-AverageOfInput.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\bin\Debug\netcoreapp1.1\17-AverageOfInput.dll
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\bin\Debug\netcoreapp1.1\17-AverageOfInput.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\obj\Debug\netcoreapp1.1\17-AverageOfInput.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\obj\Debug\netcoreapp1.1\17-AverageOfInput.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\obj\Debug\netcoreapp1.1\17-AverageOfInput.dll
+C:\greenfox\kovacsnorb\week-02\day-01\17-AverageOfInput\17-AverageOfInput\obj\Debug\netcoreapp1.1\17-AverageOfInput.pdb
