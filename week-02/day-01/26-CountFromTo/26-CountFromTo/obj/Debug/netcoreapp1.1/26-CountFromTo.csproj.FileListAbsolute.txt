@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\bin\Debug\netcoreapp1.1\26-CountFromTo.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\bin\Debug\netcoreapp1.1\26-CountFromTo.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\bin\Debug\netcoreapp1.1\26-CountFromTo.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\bin\Debug\netcoreapp1.1\26-CountFromTo.dll
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\bin\Debug\netcoreapp1.1\26-CountFromTo.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\obj\Debug\netcoreapp1.1\26-CountFromTo.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\obj\Debug\netcoreapp1.1\26-CountFromTo.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\obj\Debug\netcoreapp1.1\26-CountFromTo.dll
+C:\greenfox\kovacsnorb\week-02\day-01\26-CountFromTo\26-CountFromTo\obj\Debug\netcoreapp1.1\26-CountFromTo.pdb
