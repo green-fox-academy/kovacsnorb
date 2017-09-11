@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\bin\Debug\netcoreapp1.1\18-OddEven.deps.json
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\bin\Debug\netcoreapp1.1\18-OddEven.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\bin\Debug\netcoreapp1.1\18-OddEven.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\bin\Debug\netcoreapp1.1\18-OddEven.dll
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\bin\Debug\netcoreapp1.1\18-OddEven.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\obj\Debug\netcoreapp1.1\18-OddEven.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\obj\Debug\netcoreapp1.1\18-OddEven.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\obj\Debug\netcoreapp1.1\18-OddEven.dll
+C:\greenfox\kovacsnorb\week-02\day-01\18-OddEven\18-OddEven\obj\Debug\netcoreapp1.1\18-OddEven.pdb

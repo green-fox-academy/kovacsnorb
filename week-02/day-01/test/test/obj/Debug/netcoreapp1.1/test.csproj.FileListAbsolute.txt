@@ -7,3 +7,4 @@ C:\greenfox\kovacsnorb\week-02\day-01\test\test\obj\Debug\netcoreapp1.1\test.csp
 C:\greenfox\kovacsnorb\week-02\day-01\test\test\obj\Debug\netcoreapp1.1\test.AssemblyInfo.cs
 C:\greenfox\kovacsnorb\week-02\day-01\test\test\obj\Debug\netcoreapp1.1\test.dll
 C:\greenfox\kovacsnorb\week-02\day-01\test\test\obj\Debug\netcoreapp1.1\test.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\test\test\obj\Debug\netcoreapp1.1\test.csprojResolveAssemblyReference.cache
