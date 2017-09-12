@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\bin\Debug\netcoreapp1.1\02-GreeterFunction.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\bin\Debug\netcoreapp1.1\02-GreeterFunction.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\bin\Debug\netcoreapp1.1\02-GreeterFunction.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\bin\Debug\netcoreapp1.1\02-GreeterFunction.dll
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\bin\Debug\netcoreapp1.1\02-GreeterFunction.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\obj\Debug\netcoreapp1.1\02-GreeterFunction.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\obj\Debug\netcoreapp1.1\02-GreeterFunction.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\obj\Debug\netcoreapp1.1\02-GreeterFunction.dll
+C:\greenfox\kovacsnorb\week-02\day-02\02-GreeterFunction\02-GreeterFunction\obj\Debug\netcoreapp1.1\02-GreeterFunction.pdb
