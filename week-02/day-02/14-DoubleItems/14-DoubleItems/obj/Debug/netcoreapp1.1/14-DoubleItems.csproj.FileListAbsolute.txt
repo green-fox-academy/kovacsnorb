@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\bin\Debug\netcoreapp1.1\14-DoubleItems.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\bin\Debug\netcoreapp1.1\14-DoubleItems.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\bin\Debug\netcoreapp1.1\14-DoubleItems.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\bin\Debug\netcoreapp1.1\14-DoubleItems.dll
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\bin\Debug\netcoreapp1.1\14-DoubleItems.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\obj\Debug\netcoreapp1.1\14-DoubleItems.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\obj\Debug\netcoreapp1.1\14-DoubleItems.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\obj\Debug\netcoreapp1.1\14-DoubleItems.dll
+C:\greenfox\kovacsnorb\week-02\day-02\14-DoubleItems\14-DoubleItems\obj\Debug\netcoreapp1.1\14-DoubleItems.pdb
