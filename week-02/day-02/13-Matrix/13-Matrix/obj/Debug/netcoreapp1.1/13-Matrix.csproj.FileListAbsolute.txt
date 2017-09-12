@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\bin\Debug\netcoreapp1.1\13-Matrix.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\bin\Debug\netcoreapp1.1\13-Matrix.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\bin\Debug\netcoreapp1.1\13-Matrix.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\bin\Debug\netcoreapp1.1\13-Matrix.dll
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\bin\Debug\netcoreapp1.1\13-Matrix.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\obj\Debug\netcoreapp1.1\13-Matrix.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\obj\Debug\netcoreapp1.1\13-Matrix.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\obj\Debug\netcoreapp1.1\13-Matrix.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\obj\Debug\netcoreapp1.1\13-Matrix.dll
+C:\greenfox\kovacsnorb\week-02\day-02\13-Matrix\13-Matrix\obj\Debug\netcoreapp1.1\13-Matrix.pdb
