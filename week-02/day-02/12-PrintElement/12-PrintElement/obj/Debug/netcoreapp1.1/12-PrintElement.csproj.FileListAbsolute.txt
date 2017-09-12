@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\bin\Debug\netcoreapp1.1\12-PrintElement.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\bin\Debug\netcoreapp1.1\12-PrintElement.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\bin\Debug\netcoreapp1.1\12-PrintElement.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\bin\Debug\netcoreapp1.1\12-PrintElement.dll
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\bin\Debug\netcoreapp1.1\12-PrintElement.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\obj\Debug\netcoreapp1.1\12-PrintElement.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\obj\Debug\netcoreapp1.1\12-PrintElement.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\obj\Debug\netcoreapp1.1\12-PrintElement.dll
+C:\greenfox\kovacsnorb\week-02\day-02\12-PrintElement\12-PrintElement\obj\Debug\netcoreapp1.1\12-PrintElement.pdb
