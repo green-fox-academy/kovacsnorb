@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\bin\Debug\netcoreapp1.1\04-Summing.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\bin\Debug\netcoreapp1.1\04-Summing.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\bin\Debug\netcoreapp1.1\04-Summing.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\bin\Debug\netcoreapp1.1\04-Summing.dll
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\bin\Debug\netcoreapp1.1\04-Summing.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\obj\Debug\netcoreapp1.1\04-Summing.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\obj\Debug\netcoreapp1.1\04-Summing.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\obj\Debug\netcoreapp1.1\04-Summing.dll
+C:\greenfox\kovacsnorb\week-02\day-02\04-Summing\04-Summing\obj\Debug\netcoreapp1.1\04-Summing.pdb
