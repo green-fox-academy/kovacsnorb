@@ -7,3 +7,4 @@ C:\greenfox\kovacsnorb\week-02\day-01\30-DrawDiamond\30-DrawDiamond\obj\Debug\ne
 C:\greenfox\kovacsnorb\week-02\day-01\30-DrawDiamond\30-DrawDiamond\obj\Debug\netcoreapp1.1\30-DrawDiamond.AssemblyInfo.cs
 C:\greenfox\kovacsnorb\week-02\day-01\30-DrawDiamond\30-DrawDiamond\obj\Debug\netcoreapp1.1\30-DrawDiamond.dll
 C:\greenfox\kovacsnorb\week-02\day-01\30-DrawDiamond\30-DrawDiamond\obj\Debug\netcoreapp1.1\30-DrawDiamond.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\30-DrawDiamond\30-DrawDiamond\obj\Debug\netcoreapp1.1\30-DrawDiamond.csprojResolveAssemblyReference.cache
