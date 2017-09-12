@@ -1,0 +1,19 @@
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.deps.json
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.runtimeconfig.json
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.runtimeconfig.dev.json
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.csproj.CoreCompileInputs.cache
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.AssemblyInfo.cs
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.dll
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.pdb
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.dll
+c:\users\dell e6440\source\repos\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.dll
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\bin\Debug\netcoreapp1.1\08-CompareLength.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.dll
+C:\greenfox\kovacsnorb\week-02\day-02\08-CompareLength\08-CompareLength\obj\Debug\netcoreapp1.1\08-CompareLength.pdb

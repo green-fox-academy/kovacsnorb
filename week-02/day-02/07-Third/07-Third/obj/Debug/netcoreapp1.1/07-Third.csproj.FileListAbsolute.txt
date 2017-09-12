@@ -1,0 +1,20 @@
+c:\users\dell e6440\source\repos\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.deps.json
+c:\users\dell e6440\source\repos\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.runtimeconfig.json
+c:\users\dell e6440\source\repos\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.runtimeconfig.dev.json
+c:\users\dell e6440\source\repos\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.dll
+c:\users\dell e6440\source\repos\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.pdb
+c:\users\dell e6440\source\repos\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.csprojResolveAssemblyReference.cache
+c:\users\dell e6440\source\repos\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.csproj.CoreCompileInputs.cache
+c:\users\dell e6440\source\repos\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.AssemblyInfo.cs
+c:\users\dell e6440\source\repos\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.dll
+c:\users\dell e6440\source\repos\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.dll
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\bin\Debug\netcoreapp1.1\07-Third.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.dll
+C:\greenfox\kovacsnorb\week-02\day-02\07-Third\07-Third\obj\Debug\netcoreapp1.1\07-Third.pdb
