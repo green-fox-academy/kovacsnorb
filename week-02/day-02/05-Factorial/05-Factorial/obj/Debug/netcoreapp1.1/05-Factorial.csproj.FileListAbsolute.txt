@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\bin\Debug\netcoreapp1.1\05-Factorial.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\bin\Debug\netcoreapp1.1\05-Factorial.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\bin\Debug\netcoreapp1.1\05-Factorial.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\obj\Debug\netcoreapp1.1\05-Factorial.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\obj\Debug\netcoreapp1.1\05-Factorial.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\bin\Debug\netcoreapp1.1\05-Factorial.dll
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\bin\Debug\netcoreapp1.1\05-Factorial.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\obj\Debug\netcoreapp1.1\05-Factorial.dll
+C:\greenfox\kovacsnorb\week-02\day-02\05-Factorial\05-Factorial\obj\Debug\netcoreapp1.1\05-Factorial.pdb
