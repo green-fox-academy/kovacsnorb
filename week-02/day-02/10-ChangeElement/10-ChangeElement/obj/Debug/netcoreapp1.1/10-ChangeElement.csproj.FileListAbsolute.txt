@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\bin\Debug\netcoreapp1.1\10-ChangeElement.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\bin\Debug\netcoreapp1.1\10-ChangeElement.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\bin\Debug\netcoreapp1.1\10-ChangeElement.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\obj\Debug\netcoreapp1.1\10-ChangeElement.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\obj\Debug\netcoreapp1.1\10-ChangeElement.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\bin\Debug\netcoreapp1.1\10-ChangeElement.dll
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\bin\Debug\netcoreapp1.1\10-ChangeElement.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\obj\Debug\netcoreapp1.1\10-ChangeElement.dll
+C:\greenfox\kovacsnorb\week-02\day-02\10-ChangeElement\10-ChangeElement\obj\Debug\netcoreapp1.1\10-ChangeElement.pdb
