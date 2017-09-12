@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\bin\Debug\netcoreapp1.1\15-Colors.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\bin\Debug\netcoreapp1.1\15-Colors.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\bin\Debug\netcoreapp1.1\15-Colors.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\bin\Debug\netcoreapp1.1\15-Colors.dll
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\bin\Debug\netcoreapp1.1\15-Colors.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\obj\Debug\netcoreapp1.1\15-Colors.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\obj\Debug\netcoreapp1.1\15-Colors.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\obj\Debug\netcoreapp1.1\15-Colors.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\obj\Debug\netcoreapp1.1\15-Colors.dll
+C:\greenfox\kovacsnorb\week-02\day-02\15-Colors\15-Colors\obj\Debug\netcoreapp1.1\15-Colors.pdb
