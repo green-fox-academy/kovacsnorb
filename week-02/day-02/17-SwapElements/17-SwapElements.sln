@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-SwapElements", "17-SwapElements\17-SwapElements.csproj", "{3FBFEBCF-C035-4A06-B70C-56BBBFAD6DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBFEBCF-C035-4A06-B70C-56BBBFAD6DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBFEBCF-C035-4A06-B70C-56BBBFAD6DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBFEBCF-C035-4A06-B70C-56BBBFAD6DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBFEBCF-C035-4A06-B70C-56BBBFAD6DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27376327-F12C-4D7B-8299-E5918B90C905}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\bin\Debug\netcoreapp1.1\17-SwapElements.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\bin\Debug\netcoreapp1.1\17-SwapElements.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\bin\Debug\netcoreapp1.1\17-SwapElements.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\bin\Debug\netcoreapp1.1\17-SwapElements.dll
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\bin\Debug\netcoreapp1.1\17-SwapElements.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\netcoreapp1.1\17-SwapElements.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\netcoreapp1.1\17-SwapElements.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\netcoreapp1.1\17-SwapElements.dll
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\netcoreapp1.1\17-SwapElements.pdb
