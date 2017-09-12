@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\bin\Debug\netcoreapp1.1\03-AppendA.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\bin\Debug\netcoreapp1.1\03-AppendA.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\bin\Debug\netcoreapp1.1\03-AppendA.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\bin\Debug\netcoreapp1.1\03-AppendA.dll
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\bin\Debug\netcoreapp1.1\03-AppendA.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\obj\Debug\netcoreapp1.1\03-AppendA.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\obj\Debug\netcoreapp1.1\03-AppendA.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\obj\Debug\netcoreapp1.1\03-AppendA.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\obj\Debug\netcoreapp1.1\03-AppendA.dll
+C:\greenfox\kovacsnorb\week-02\day-02\03-AppendA\03-AppendA\obj\Debug\netcoreapp1.1\03-AppendA.pdb
