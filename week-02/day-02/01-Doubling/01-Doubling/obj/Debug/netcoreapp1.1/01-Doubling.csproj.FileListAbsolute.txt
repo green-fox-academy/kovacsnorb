@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\bin\Debug\netcoreapp1.1\01-Doubling.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\bin\Debug\netcoreapp1.1\01-Doubling.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\bin\Debug\netcoreapp1.1\01-Doubling.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\bin\Debug\netcoreapp1.1\01-Doubling.dll
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\bin\Debug\netcoreapp1.1\01-Doubling.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\obj\Debug\netcoreapp1.1\01-Doubling.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\obj\Debug\netcoreapp1.1\01-Doubling.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\obj\Debug\netcoreapp1.1\01-Doubling.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\obj\Debug\netcoreapp1.1\01-Doubling.dll
+C:\greenfox\kovacsnorb\week-02\day-02\01-Doubling\01-Doubling\obj\Debug\netcoreapp1.1\01-Doubling.pdb
