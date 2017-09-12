@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\bin\Debug\netcoreapp1.1\11-IncrementElement.deps.json
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\bin\Debug\netcoreapp1.1\11-IncrementElement.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\bin\Debug\netcoreapp1.1\11-IncrementElement.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\bin\Debug\netcoreapp1.1\11-IncrementElement.dll
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\bin\Debug\netcoreapp1.1\11-IncrementElement.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\obj\Debug\netcoreapp1.1\11-IncrementElement.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\obj\Debug\netcoreapp1.1\11-IncrementElement.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\obj\Debug\netcoreapp1.1\11-IncrementElement.dll
+C:\greenfox\kovacsnorb\week-02\day-02\11-IncrementElement\11-IncrementElement\obj\Debug\netcoreapp1.1\11-IncrementElement.pdb
