@@ -24,6 +24,7 @@ namespace Strings_03
             WordsToOneLine(0, lastWordOfFirstPart, wordsOfQuote, quoteFinal);
             WordsToOneLine(0, wordsOfQuote2.Length, wordsOfQuote2, quoteFinal);
             WordsToOneLine(lastWordOfFirstPart + 1, wordsOfQuote.Length, wordsOfQuote, quoteFinal);
+
             Console.WriteLine(quoteFinal.ToString());
             Console.ReadLine();
         }
