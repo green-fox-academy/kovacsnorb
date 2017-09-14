@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\bin\Debug\netcoreapp1.1\31-DrawSquare.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\bin\Debug\netcoreapp1.1\31-DrawSquare.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\bin\Debug\netcoreapp1.1\31-DrawSquare.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\bin\Debug\netcoreapp1.1\31-DrawSquare.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\bin\Debug\netcoreapp1.1\31-DrawSquare.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\obj\Debug\netcoreapp1.1\31-DrawSquare.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\obj\Debug\netcoreapp1.1\31-DrawSquare.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\obj\Debug\netcoreapp1.1\31-DrawSquare.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\31-DrawSquare\31-DrawSquare\obj\Debug\netcoreapp1.1\31-DrawSquare.pdb
