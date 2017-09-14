@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\bin\Debug\netcoreapp1.1\20-PrintBigger.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\bin\Debug\netcoreapp1.1\20-PrintBigger.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\bin\Debug\netcoreapp1.1\20-PrintBigger.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\bin\Debug\netcoreapp1.1\20-PrintBigger.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\bin\Debug\netcoreapp1.1\20-PrintBigger.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\obj\Debug\netcoreapp1.1\20-PrintBigger.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\obj\Debug\netcoreapp1.1\20-PrintBigger.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\obj\Debug\netcoreapp1.1\20-PrintBigger.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\obj\Debug\netcoreapp1.1\20-PrintBigger.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\20-PrintBigger\20-PrintBigger\obj\Debug\netcoreapp1.1\20-PrintBigger.pdb

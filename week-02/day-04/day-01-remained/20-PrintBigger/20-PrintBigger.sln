@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-PrintBigger", "20-PrintBigger\20-PrintBigger.csproj", "{A48661C5-C6CD-43EE-BF51-8CFC846A6645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48661C5-C6CD-43EE-BF51-8CFC846A6645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48661C5-C6CD-43EE-BF51-8CFC846A6645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48661C5-C6CD-43EE-BF51-8CFC846A6645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48661C5-C6CD-43EE-BF51-8CFC846A6645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A29327-93B8-4333-BD5F-D525B775159A}
+	EndGlobalSection
+EndGlobal
