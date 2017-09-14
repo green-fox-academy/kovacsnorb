@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\bin\Debug\netcoreapp1.1\19-ReverseList.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\bin\Debug\netcoreapp1.1\19-ReverseList.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\bin\Debug\netcoreapp1.1\19-ReverseList.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\bin\Debug\netcoreapp1.1\19-ReverseList.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\bin\Debug\netcoreapp1.1\19-ReverseList.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\obj\Debug\netcoreapp1.1\19-ReverseList.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\obj\Debug\netcoreapp1.1\19-ReverseList.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\obj\Debug\netcoreapp1.1\19-ReverseList.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\19-ReverseList\19-ReverseList\obj\Debug\netcoreapp1.1\19-ReverseList.pdb
