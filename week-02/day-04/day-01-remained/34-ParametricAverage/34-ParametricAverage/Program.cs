@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _33_ParametricAverage
+namespace _34_ParametricAverage
 {
     class Program
     {
@@ -20,12 +20,12 @@ namespace _33_ParametricAverage
 
             for (int i = 0; i < number; i++)
             {
-                Console.Write("Give me number " + (i+1) + ": ");
+                Console.Write("Give me number " + (i + 1) + ": ");
                 int givenNumber = int.Parse(Console.ReadLine());
                 sum += givenNumber;
                 counter++;
             }
-            Console.WriteLine("Sum: " + sum + ", Average: " + (sum/counter));
+            Console.WriteLine("Sum: " + sum + ", Average: " + (sum / counter));
             Console.ReadLine();
         }
     }
