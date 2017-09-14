@@ -7,3 +7,4 @@ C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\
 C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\netcoreapp1.1\17-SwapElements.AssemblyInfo.cs
 C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\netcoreapp1.1\17-SwapElements.dll
 C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\netcoreapp1.1\17-SwapElements.pdb
+C:\greenfox\kovacsnorb\week-02\day-02\17-SwapElements\17-SwapElements\obj\Debug\netcoreapp1.1\17-SwapElements.csprojResolveAssemblyReference.cache

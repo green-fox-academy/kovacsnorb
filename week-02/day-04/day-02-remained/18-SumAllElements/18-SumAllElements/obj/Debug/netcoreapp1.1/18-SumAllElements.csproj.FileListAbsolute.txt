@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\bin\Debug\netcoreapp1.1\18-SumAllElements.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\bin\Debug\netcoreapp1.1\18-SumAllElements.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\bin\Debug\netcoreapp1.1\18-SumAllElements.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\bin\Debug\netcoreapp1.1\18-SumAllElements.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\bin\Debug\netcoreapp1.1\18-SumAllElements.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\obj\Debug\netcoreapp1.1\18-SumAllElements.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\obj\Debug\netcoreapp1.1\18-SumAllElements.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\obj\Debug\netcoreapp1.1\18-SumAllElements.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\obj\Debug\netcoreapp1.1\18-SumAllElements.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\18-SumAllElements\18-SumAllElements\obj\Debug\netcoreapp1.1\18-SumAllElements.pdb
