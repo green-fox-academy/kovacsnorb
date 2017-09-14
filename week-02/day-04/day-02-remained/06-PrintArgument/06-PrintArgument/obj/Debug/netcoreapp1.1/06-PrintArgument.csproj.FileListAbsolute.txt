@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\bin\Debug\netcoreapp1.1\06-PrintArgument.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\bin\Debug\netcoreapp1.1\06-PrintArgument.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\bin\Debug\netcoreapp1.1\06-PrintArgument.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\bin\Debug\netcoreapp1.1\06-PrintArgument.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\bin\Debug\netcoreapp1.1\06-PrintArgument.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\obj\Debug\netcoreapp1.1\06-PrintArgument.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\obj\Debug\netcoreapp1.1\06-PrintArgument.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\obj\Debug\netcoreapp1.1\06-PrintArgument.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\obj\Debug\netcoreapp1.1\06-PrintArgument.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-02-remained\06-PrintArgument\06-PrintArgument\obj\Debug\netcoreapp1.1\06-PrintArgument.csprojResolveAssemblyReference.cache
