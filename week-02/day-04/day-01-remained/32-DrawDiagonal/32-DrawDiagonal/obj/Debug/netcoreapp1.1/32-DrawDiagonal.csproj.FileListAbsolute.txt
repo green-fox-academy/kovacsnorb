@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\bin\Debug\netcoreapp1.1\32-DrawDiagonal.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\bin\Debug\netcoreapp1.1\32-DrawDiagonal.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\bin\Debug\netcoreapp1.1\32-DrawDiagonal.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\bin\Debug\netcoreapp1.1\32-DrawDiagonal.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\bin\Debug\netcoreapp1.1\32-DrawDiagonal.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\obj\Debug\netcoreapp1.1\32-DrawDiagonal.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\obj\Debug\netcoreapp1.1\32-DrawDiagonal.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\obj\Debug\netcoreapp1.1\32-DrawDiagonal.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\obj\Debug\netcoreapp1.1\32-DrawDiagonal.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\32-DrawDiagonal\32-DrawDiagonal\obj\Debug\netcoreapp1.1\32-DrawDiagonal.pdb
