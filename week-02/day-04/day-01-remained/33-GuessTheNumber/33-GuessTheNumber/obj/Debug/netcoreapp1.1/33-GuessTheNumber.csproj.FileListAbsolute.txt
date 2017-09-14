@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\bin\Debug\netcoreapp1.1\33-GuessTheNumber.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\bin\Debug\netcoreapp1.1\33-GuessTheNumber.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\bin\Debug\netcoreapp1.1\33-GuessTheNumber.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\bin\Debug\netcoreapp1.1\33-GuessTheNumber.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\bin\Debug\netcoreapp1.1\33-GuessTheNumber.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\obj\Debug\netcoreapp1.1\33-GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\obj\Debug\netcoreapp1.1\33-GuessTheNumber.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\obj\Debug\netcoreapp1.1\33-GuessTheNumber.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-GuessTheNumber\33-GuessTheNumber\obj\Debug\netcoreapp1.1\33-GuessTheNumber.pdb
