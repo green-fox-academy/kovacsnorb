@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\bin\Debug\netcoreapp1.1\33-ParametricAverage.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\bin\Debug\netcoreapp1.1\33-ParametricAverage.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\bin\Debug\netcoreapp1.1\33-ParametricAverage.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\bin\Debug\netcoreapp1.1\33-ParametricAverage.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\bin\Debug\netcoreapp1.1\33-ParametricAverage.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\obj\Debug\netcoreapp1.1\33-ParametricAverage.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\obj\Debug\netcoreapp1.1\33-ParametricAverage.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\obj\Debug\netcoreapp1.1\33-ParametricAverage.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\obj\Debug\netcoreapp1.1\33-ParametricAverage.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\33-ParametricAverage\33-ParametricAverage\obj\Debug\netcoreapp1.1\33-ParametricAverage.pdb
