@@ -23,8 +23,8 @@ namespace Calculator
             // Exit
 
             Console.WriteLine("Please type in the expression, in this format: {operation} {operand} {operand}, for example: + 30 4");
-            string userInput = Console.ReadLine();
-            string[] userInputSplitted = userInput.Split(' ');
+            //string userInput = Console.ReadLine();
+            string[] userInputSplitted = Console.ReadLine().Split(' ');
             Console.WriteLine(CalculateMe(userInputSplitted[0], userInputSplitted[1], userInputSplitted[2]));
             Console.ReadLine();
         }
