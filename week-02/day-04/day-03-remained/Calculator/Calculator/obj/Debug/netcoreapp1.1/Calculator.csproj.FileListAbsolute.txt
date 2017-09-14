@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-03-remained\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.pdb
