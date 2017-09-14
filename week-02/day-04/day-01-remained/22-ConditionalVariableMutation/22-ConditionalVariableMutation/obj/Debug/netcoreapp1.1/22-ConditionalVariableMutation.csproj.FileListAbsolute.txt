@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\bin\Debug\netcoreapp1.1\22-ConditionalVariableMutation.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\bin\Debug\netcoreapp1.1\22-ConditionalVariableMutation.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\bin\Debug\netcoreapp1.1\22-ConditionalVariableMutation.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\bin\Debug\netcoreapp1.1\22-ConditionalVariableMutation.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\bin\Debug\netcoreapp1.1\22-ConditionalVariableMutation.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\obj\Debug\netcoreapp1.1\22-ConditionalVariableMutation.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\obj\Debug\netcoreapp1.1\22-ConditionalVariableMutation.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\obj\Debug\netcoreapp1.1\22-ConditionalVariableMutation.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\obj\Debug\netcoreapp1.1\22-ConditionalVariableMutation.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\22-ConditionalVariableMutation\22-ConditionalVariableMutation\obj\Debug\netcoreapp1.1\22-ConditionalVariableMutation.pdb
