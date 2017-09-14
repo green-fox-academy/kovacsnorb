@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\bin\Debug\netcoreapp1.1\35-DrawChessTable.deps.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\bin\Debug\netcoreapp1.1\35-DrawChessTable.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\bin\Debug\netcoreapp1.1\35-DrawChessTable.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\bin\Debug\netcoreapp1.1\35-DrawChessTable.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\bin\Debug\netcoreapp1.1\35-DrawChessTable.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\obj\Debug\netcoreapp1.1\35-DrawChessTable.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\obj\Debug\netcoreapp1.1\35-DrawChessTable.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\obj\Debug\netcoreapp1.1\35-DrawChessTable.dll
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\obj\Debug\netcoreapp1.1\35-DrawChessTable.pdb
+C:\greenfox\kovacsnorb\week-02\day-04\day-01-remained\35-DrawChessTable\35-DrawChessTable\obj\Debug\netcoreapp1.1\35-DrawChessTable.csprojResolveAssemblyReference.cache
