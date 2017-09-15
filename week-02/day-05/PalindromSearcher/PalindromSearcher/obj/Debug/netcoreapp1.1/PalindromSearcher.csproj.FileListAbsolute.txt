@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\bin\Debug\netcoreapp1.1\PalindromSearcher.deps.json
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\bin\Debug\netcoreapp1.1\PalindromSearcher.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\bin\Debug\netcoreapp1.1\PalindromSearcher.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\bin\Debug\netcoreapp1.1\PalindromSearcher.dll
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\bin\Debug\netcoreapp1.1\PalindromSearcher.pdb
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\obj\Debug\netcoreapp1.1\PalindromSearcher.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\obj\Debug\netcoreapp1.1\PalindromSearcher.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\obj\Debug\netcoreapp1.1\PalindromSearcher.dll
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\obj\Debug\netcoreapp1.1\PalindromSearcher.pdb
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromSearcher\PalindromSearcher\obj\Debug\netcoreapp1.1\PalindromSearcher.csprojResolveAssemblyReference.cache
