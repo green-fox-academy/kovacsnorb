@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\bin\Debug\netcoreapp1.1\PalindromBuilder.deps.json
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\bin\Debug\netcoreapp1.1\PalindromBuilder.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\bin\Debug\netcoreapp1.1\PalindromBuilder.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\bin\Debug\netcoreapp1.1\PalindromBuilder.dll
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\bin\Debug\netcoreapp1.1\PalindromBuilder.pdb
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\obj\Debug\netcoreapp1.1\PalindromBuilder.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\obj\Debug\netcoreapp1.1\PalindromBuilder.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\obj\Debug\netcoreapp1.1\PalindromBuilder.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\obj\Debug\netcoreapp1.1\PalindromBuilder.dll
+C:\greenfox\kovacsnorb\week-02\day-05\PalindromBuilder\PalindromBuilder\obj\Debug\netcoreapp1.1\PalindromBuilder.pdb
