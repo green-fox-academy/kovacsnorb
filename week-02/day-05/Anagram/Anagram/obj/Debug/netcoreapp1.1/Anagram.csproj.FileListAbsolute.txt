@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.deps.json
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\obj\Debug\netcoreapp1.1\Anagram.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\obj\Debug\netcoreapp1.1\Anagram.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\obj\Debug\netcoreapp1.1\Anagram.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.dll
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\bin\Debug\netcoreapp1.1\Anagram.pdb
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\obj\Debug\netcoreapp1.1\Anagram.dll
+C:\greenfox\kovacsnorb\week-02\day-05\Anagram\Anagram\obj\Debug\netcoreapp1.1\Anagram.pdb
