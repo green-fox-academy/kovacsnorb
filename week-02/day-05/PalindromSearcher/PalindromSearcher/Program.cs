@@ -7,22 +7,38 @@ namespace PalindromSearcher
     {
         static void Main(string[] args)
         {
+            ListPalindroms(CheckIfWordPalindrom(FillListWithPossibleWords(GiveMeAString())));
+        }
+
+        public static string GiveMeAString()
+        {
             Console.Write("Give me a string: ");
             string userInput = Console.ReadLine();
-            List<string> possibleWords = new List<string>();
-            List<string> palindroms = new List<string>();
+            return userInput;
+        }
 
-            for (int i = 3; i < userInput.Length + 1; i++)
+        public static List<string> FillListWithPossibleWords(string input)
+        {
+            List<string> possible = new List<string>();
+
+            for (int i = 3; i < input.Length + 1; i++)
             {
-                for (int j = 0; j < userInput.Length - i + 1; j++)
+                for (int j = 0; j < input.Length - i + 1; j++)
                 {
-                    possibleWords.Add(userInput.Substring(j, i));
+                    possible.Add(input.Substring(j, i));
                 }
             }
 
-            for (int j = 0; j < possibleWords.Count; j++)
+            return possible;
+        }
+
+        public static List<string> CheckIfWordPalindrom(List<string> input)
+        {
+            List<string> palindrom = new List<string>();
+
+            for (int j = 0; j < input.Count; j++)
             {
-                string wordToCheck = possibleWords[j];
+                string wordToCheck = input[j];
                 int counter = 0;
 
                 for (int i = 0; i < wordToCheck.Length / 2 + 1; i++)
@@ -35,17 +51,21 @@ namespace PalindromSearcher
 
                 if (counter == 0)
                 {
-                    palindroms.Add(wordToCheck);
+                    palindrom.Add(wordToCheck);
                 }
 
                 counter = 0;
             }
+            return palindrom;
+        }
 
+        public static void ListPalindroms(List<string> input)
+        {
             Console.Write("Palindroms are: ");
 
-            for (int i = 0; i < palindroms.Count; i++)
+            for (int i = 0; i < input.Count; i++)
             {
-                Console.Write("{0}, ", palindroms[i]);
+                Console.Write("{0}, ", input[i]);
             }
 
             Console.ReadLine();
