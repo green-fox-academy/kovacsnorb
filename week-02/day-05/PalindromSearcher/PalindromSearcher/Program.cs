@@ -13,8 +13,7 @@ namespace PalindromSearcher
         public static string GiveMeAString()
         {
             Console.Write("Give me a string: ");
-            string userInput = Console.ReadLine();
-            return userInput;
+            return Console.ReadLine();
         }
 
         public static List<string> FillListWithPossibleWords(string input)
@@ -61,11 +60,11 @@ namespace PalindromSearcher
 
         public static void ListPalindroms(List<string> input)
         {
-            Console.Write("Palindroms are: ");
+            Console.WriteLine("Palindroms are: ");
 
             for (int i = 0; i < input.Count; i++)
             {
-                Console.Write("{0}, ", input[i]);
+                Console.WriteLine("{0}, ", input[i]);
             }
 
             Console.ReadLine();

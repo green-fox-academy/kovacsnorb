@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.deps.json
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.dll
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\bin\Debug\netcoreapp1.1\GuessMyNumber.pdb
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.dll
+C:\greenfox\kovacsnorb\week-02\day-05\GuessMyNumber\GuessMyNumber\obj\Debug\netcoreapp1.1\GuessMyNumber.pdb
