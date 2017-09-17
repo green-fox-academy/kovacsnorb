@@ -1,0 +1,9 @@
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp1.1\ArmstrongNumber.deps.json
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp1.1\ArmstrongNumber.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp1.1\ArmstrongNumber.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp1.1\ArmstrongNumber.dll
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp1.1\ArmstrongNumber.pdb
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp1.1\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp1.1\ArmstrongNumber.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp1.1\ArmstrongNumber.dll
+C:\greenfox\kovacsnorb\week-02\day-05\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp1.1\ArmstrongNumber.pdb
