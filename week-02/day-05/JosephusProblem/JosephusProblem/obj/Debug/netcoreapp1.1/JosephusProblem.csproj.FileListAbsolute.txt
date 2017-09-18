@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp1.1\JosephusProblem.deps.json
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp1.1\JosephusProblem.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp1.1\JosephusProblem.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp1.1\JosephusProblem.dll
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp1.1\JosephusProblem.pdb
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp1.1\JosephusProblem.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp1.1\JosephusProblem.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp1.1\JosephusProblem.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp1.1\JosephusProblem.dll
+C:\greenfox\kovacsnorb\week-02\day-05\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp1.1\JosephusProblem.pdb
