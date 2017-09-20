@@ -1,0 +1,15 @@
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\bin\Debug\07-FourRectangles.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\bin\Debug\07-FourRectangles.exe
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\bin\Debug\07-FourRectangles.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\07-FourRectangles_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\07-FourRectangles_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\07-FourRectangles.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\_07_FourRectangles.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\07-FourRectangles.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\07-FourRectangles.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\07-FourRectangles.exe
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\07-FourRectangles.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\07-FourRectangles\07-FourRectangles\obj\Debug\07-FourRectangles.csprojResolveAssemblyReference.cache
