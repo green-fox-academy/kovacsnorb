@@ -1,0 +1,14 @@
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\bin\Debug\12-PurpleSteps3D.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\bin\Debug\12-PurpleSteps3D.exe
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\bin\Debug\12-PurpleSteps3D.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\12-PurpleSteps3D_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\12-PurpleSteps3D_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\12-PurpleSteps3D.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\_12_PurpleSteps3D.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\12-PurpleSteps3D.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\12-PurpleSteps3D.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\12-PurpleSteps3D.exe
+C:\greenfox\kovacsnorb\week-03\day-03\12-PurpleSteps3D\12-PurpleSteps3D\obj\Debug\12-PurpleSteps3D.pdb
