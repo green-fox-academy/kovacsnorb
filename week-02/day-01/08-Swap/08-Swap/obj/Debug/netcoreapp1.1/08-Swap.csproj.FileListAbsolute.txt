@@ -7,3 +7,4 @@ C:\greenfox\kovacsnorb\week-02\day-01\08-Swap\08-Swap\obj\Debug\netcoreapp1.1\08
 C:\greenfox\kovacsnorb\week-02\day-01\08-Swap\08-Swap\obj\Debug\netcoreapp1.1\08-Swap.AssemblyInfo.cs
 C:\greenfox\kovacsnorb\week-02\day-01\08-Swap\08-Swap\obj\Debug\netcoreapp1.1\08-Swap.dll
 C:\greenfox\kovacsnorb\week-02\day-01\08-Swap\08-Swap\obj\Debug\netcoreapp1.1\08-Swap.pdb
+C:\greenfox\kovacsnorb\week-02\day-01\08-Swap\08-Swap\obj\Debug\netcoreapp1.1\08-Swap.csprojResolveAssemblyReference.cache

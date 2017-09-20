@@ -1,0 +1,15 @@
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\bin\Debug\Test.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\bin\Debug\Test.exe
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\bin\Debug\Test.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test.exe
+C:\greenfox\kovacsnorb\week-03\day-03\Test\Test\obj\Debug\Test.pdb

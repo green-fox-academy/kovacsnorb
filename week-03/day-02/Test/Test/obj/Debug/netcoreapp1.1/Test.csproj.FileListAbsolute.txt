@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\bin\Debug\netcoreapp1.1\Test.deps.json
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\obj\Debug\netcoreapp1.1\Test.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\obj\Debug\netcoreapp1.1\Test.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\obj\Debug\netcoreapp1.1\Test.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\bin\Debug\netcoreapp1.1\Test.dll
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\bin\Debug\netcoreapp1.1\Test.pdb
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\obj\Debug\netcoreapp1.1\Test.dll
+C:\greenfox\kovacsnorb\week-03\day-02\Test\Test\obj\Debug\netcoreapp1.1\Test.pdb

@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\bin\Debug\netcoreapp1.1\DailyWork.deps.json
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\bin\Debug\netcoreapp1.1\DailyWork.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\bin\Debug\netcoreapp1.1\DailyWork.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\bin\Debug\netcoreapp1.1\DailyWork.dll
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\bin\Debug\netcoreapp1.1\DailyWork.pdb
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\obj\Debug\netcoreapp1.1\DailyWork.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\obj\Debug\netcoreapp1.1\DailyWork.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\obj\Debug\netcoreapp1.1\DailyWork.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\obj\Debug\netcoreapp1.1\DailyWork.dll
+C:\greenfox\kovacsnorb\week-03\day-02\DailyWork\DailyWork\obj\Debug\netcoreapp1.1\DailyWork.pdb

@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.deps.json
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.dll
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\bin\Debug\netcoreapp1.1\DivideByZero.pdb
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.dll
+C:\greenfox\kovacsnorb\week-03\day-02\DivideByZero\DivideByZero\obj\Debug\netcoreapp1.1\DivideByZero.pdb

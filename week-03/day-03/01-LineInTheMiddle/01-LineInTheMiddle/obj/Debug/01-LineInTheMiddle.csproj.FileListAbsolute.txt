@@ -1,0 +1,15 @@
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\bin\Debug\01-LineInTheMiddle.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\bin\Debug\01-LineInTheMiddle.exe
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\bin\Debug\01-LineInTheMiddle.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\01-LineInTheMiddle_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\01-LineInTheMiddle_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\01-LineInTheMiddle.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\_01_LineInTheMiddle.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\01-LineInTheMiddle.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\01-LineInTheMiddle.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\01-LineInTheMiddle.exe
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\01-LineInTheMiddle.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\01-LineInTheMiddle\01-LineInTheMiddle\obj\Debug\01-LineInTheMiddle.csprojResolveAssemblyReference.cache
