@@ -1,0 +1,14 @@
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\05-HorizontalLines_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\05-HorizontalLines_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\bin\Debug\05-HorizontalLines.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\bin\Debug\05-HorizontalLines.exe
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\bin\Debug\05-HorizontalLines.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\05-HorizontalLines.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\_05_HorizontalLines.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\05-HorizontalLines.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\05-HorizontalLines.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\05-HorizontalLines.exe
+C:\greenfox\kovacsnorb\week-03\day-03\05-HorizontalLines\05-HorizontalLines\obj\Debug\05-HorizontalLines.pdb
