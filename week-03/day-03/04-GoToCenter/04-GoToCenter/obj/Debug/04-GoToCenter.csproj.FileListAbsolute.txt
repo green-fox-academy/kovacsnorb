@@ -1,0 +1,15 @@
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\bin\Debug\04-GoToCenter.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\bin\Debug\04-GoToCenter.exe
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\bin\Debug\04-GoToCenter.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\04-GoToCenter.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\04-GoToCenter_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\04-GoToCenter_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\04-GoToCenter.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\_04_GoToCenter.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\04-GoToCenter.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\04-GoToCenter.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\04-GoToCenter.exe
+C:\greenfox\kovacsnorb\week-03\day-03\04-GoToCenter\04-GoToCenter\obj\Debug\04-GoToCenter.pdb
