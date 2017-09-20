@@ -1,0 +1,14 @@
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\bin\Debug\06-SquareInTheCenter.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\bin\Debug\06-SquareInTheCenter.exe
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\bin\Debug\06-SquareInTheCenter.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\06-SquareInTheCenter_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\06-SquareInTheCenter_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\06-SquareInTheCenter.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\_06_SquareInTheCenter.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\06-SquareInTheCenter.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\06-SquareInTheCenter.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\06-SquareInTheCenter.exe
+C:\greenfox\kovacsnorb\week-03\day-03\06-SquareInTheCenter\06-SquareInTheCenter\obj\Debug\06-SquareInTheCenter.pdb
