@@ -1,0 +1,14 @@
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\bin\Debug\11-PurpleSteps.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\bin\Debug\11-PurpleSteps.exe
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\bin\Debug\11-PurpleSteps.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\11-PurpleSteps_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\11-PurpleSteps_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\11-PurpleSteps.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\_11_PurpleSteps.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\11-PurpleSteps.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\11-PurpleSteps.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\11-PurpleSteps.exe
+C:\greenfox\kovacsnorb\week-03\day-03\11-PurpleSteps\11-PurpleSteps\obj\Debug\11-PurpleSteps.pdb
