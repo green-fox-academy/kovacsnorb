@@ -1,0 +1,15 @@
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\bin\Debug\09-CenterBoxFunction.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\bin\Debug\09-CenterBoxFunction.exe
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\bin\Debug\09-CenterBoxFunction.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\09-CenterBoxFunction.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\09-CenterBoxFunction_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\09-CenterBoxFunction_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\09-CenterBoxFunction.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\_09_CenterBoxFunction.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\09-CenterBoxFunction.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\09-CenterBoxFunction.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\09-CenterBoxFunction.exe
+C:\greenfox\kovacsnorb\week-03\day-03\09-CenterBoxFunction\09-CenterBoxFunction\obj\Debug\09-CenterBoxFunction.pdb
