@@ -1,0 +1,14 @@
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\bin\Debug\13-CheckerBoard.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\bin\Debug\13-CheckerBoard.exe
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\bin\Debug\13-CheckerBoard.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\13-CheckerBoard_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\13-CheckerBoard_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\13-CheckerBoard.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\_13_CheckerBoard.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\13-CheckerBoard.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\13-CheckerBoard.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\13-CheckerBoard.exe
+C:\greenfox\kovacsnorb\week-03\day-03\13-CheckerBoard\13-CheckerBoard\obj\Debug\13-CheckerBoard.pdb
