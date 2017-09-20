@@ -1,0 +1,14 @@
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\bin\Debug\03-Diagonals.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\bin\Debug\03-Diagonals.exe
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\bin\Debug\03-Diagonals.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\03-Diagonals_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\03-Diagonals_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\03-Diagonals.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\_03_Diagonals.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\03-Diagonals.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\03-Diagonals.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\03-Diagonals.exe
+C:\greenfox\kovacsnorb\week-03\day-03\03-Diagonals\03-Diagonals\obj\Debug\03-Diagonals.pdb
