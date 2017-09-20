@@ -1,0 +1,14 @@
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\bin\Debug\14-FunctionToCenter.exe.config
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\bin\Debug\14-FunctionToCenter.exe
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\bin\Debug\14-FunctionToCenter.pdb
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\14-FunctionToCenter_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\14-FunctionToCenter_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\14-FunctionToCenter.g.resources
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\_14_FunctionToCenter.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\14-FunctionToCenter.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\14-FunctionToCenter.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\14-FunctionToCenter.exe
+C:\greenfox\kovacsnorb\week-03\day-03\14-FunctionToCenter\14-FunctionToCenter\obj\Debug\14-FunctionToCenter.pdb
