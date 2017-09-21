@@ -1,0 +1,6 @@
+C:\greenfox\kovacsnorb\week-03\day-04\02-NumberAdder\02-NumberAdder\bin\Debug\02-NumberAdder.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\02-NumberAdder\02-NumberAdder\bin\Debug\02-NumberAdder.exe
+C:\greenfox\kovacsnorb\week-03\day-04\02-NumberAdder\02-NumberAdder\bin\Debug\02-NumberAdder.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\02-NumberAdder\02-NumberAdder\obj\Debug\02-NumberAdder.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\02-NumberAdder\02-NumberAdder\obj\Debug\02-NumberAdder.exe
+C:\greenfox\kovacsnorb\week-03\day-04\02-NumberAdder\02-NumberAdder\obj\Debug\02-NumberAdder.pdb
