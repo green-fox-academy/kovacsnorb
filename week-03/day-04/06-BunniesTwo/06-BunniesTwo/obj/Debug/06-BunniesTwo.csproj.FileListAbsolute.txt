@@ -1,0 +1,6 @@
+C:\greenfox\kovacsnorb\week-03\day-04\06-BunniesTwo\06-BunniesTwo\bin\Debug\06-BunniesTwo.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\06-BunniesTwo\06-BunniesTwo\bin\Debug\06-BunniesTwo.exe
+C:\greenfox\kovacsnorb\week-03\day-04\06-BunniesTwo\06-BunniesTwo\bin\Debug\06-BunniesTwo.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\06-BunniesTwo\06-BunniesTwo\obj\Debug\06-BunniesTwo.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\06-BunniesTwo\06-BunniesTwo\obj\Debug\06-BunniesTwo.exe
+C:\greenfox\kovacsnorb\week-03\day-04\06-BunniesTwo\06-BunniesTwo\obj\Debug\06-BunniesTwo.pdb
