@@ -1,0 +1,6 @@
+C:\greenfox\kovacsnorb\week-03\day-04\07-StringOne\07-StringOne\bin\Debug\07-StringOne.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\07-StringOne\07-StringOne\bin\Debug\07-StringOne.exe
+C:\greenfox\kovacsnorb\week-03\day-04\07-StringOne\07-StringOne\bin\Debug\07-StringOne.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\07-StringOne\07-StringOne\obj\Debug\07-StringOne.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\07-StringOne\07-StringOne\obj\Debug\07-StringOne.exe
+C:\greenfox\kovacsnorb\week-03\day-04\07-StringOne\07-StringOne\obj\Debug\07-StringOne.pdb
