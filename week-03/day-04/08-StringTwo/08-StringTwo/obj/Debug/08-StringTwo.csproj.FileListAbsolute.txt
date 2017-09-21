@@ -1,0 +1,6 @@
+C:\greenfox\kovacsnorb\week-03\day-04\08-StringTwo\08-StringTwo\bin\Debug\08-StringTwo.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\08-StringTwo\08-StringTwo\bin\Debug\08-StringTwo.exe
+C:\greenfox\kovacsnorb\week-03\day-04\08-StringTwo\08-StringTwo\bin\Debug\08-StringTwo.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\08-StringTwo\08-StringTwo\obj\Debug\08-StringTwo.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\08-StringTwo\08-StringTwo\obj\Debug\08-StringTwo.exe
+C:\greenfox\kovacsnorb\week-03\day-04\08-StringTwo\08-StringTwo\obj\Debug\08-StringTwo.pdb
