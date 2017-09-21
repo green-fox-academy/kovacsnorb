@@ -1,0 +1,6 @@
+C:\greenfox\kovacsnorb\week-03\day-04\04-Power\04-Power\bin\Debug\04-Power.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\04-Power\04-Power\bin\Debug\04-Power.exe
+C:\greenfox\kovacsnorb\week-03\day-04\04-Power\04-Power\bin\Debug\04-Power.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\04-Power\04-Power\obj\Debug\04-Power.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\04-Power\04-Power\obj\Debug\04-Power.exe
+C:\greenfox\kovacsnorb\week-03\day-04\04-Power\04-Power\obj\Debug\04-Power.pdb
