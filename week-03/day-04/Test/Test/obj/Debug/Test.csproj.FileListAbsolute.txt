@@ -1,0 +1,7 @@
+C:\greenfox\kovacsnorb\week-03\day-04\Test\Test\bin\Debug\Test.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\Test\Test\bin\Debug\Test.exe
+C:\greenfox\kovacsnorb\week-03\day-04\Test\Test\bin\Debug\Test.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-04\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\Test\Test\obj\Debug\Test.exe
+C:\greenfox\kovacsnorb\week-03\day-04\Test\Test\obj\Debug\Test.pdb

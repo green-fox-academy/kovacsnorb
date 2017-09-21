@@ -1,0 +1,7 @@
+C:\greenfox\kovacsnorb\week-03\day-04\01-Counter\01-Counter\bin\Debug\01-Counter.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\01-Counter\01-Counter\bin\Debug\01-Counter.exe
+C:\greenfox\kovacsnorb\week-03\day-04\01-Counter\01-Counter\bin\Debug\01-Counter.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\01-Counter\01-Counter\obj\Debug\01-Counter.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-04\01-Counter\01-Counter\obj\Debug\01-Counter.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\01-Counter\01-Counter\obj\Debug\01-Counter.exe
+C:\greenfox\kovacsnorb\week-03\day-04\01-Counter\01-Counter\obj\Debug\01-Counter.pdb
