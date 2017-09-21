@@ -1,0 +1,6 @@
+C:\greenfox\kovacsnorb\week-03\day-04\03-SumDigit\03-SumDigit\bin\Debug\03-SumDigit.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\03-SumDigit\03-SumDigit\bin\Debug\03-SumDigit.exe
+C:\greenfox\kovacsnorb\week-03\day-04\03-SumDigit\03-SumDigit\bin\Debug\03-SumDigit.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\03-SumDigit\03-SumDigit\obj\Debug\03-SumDigit.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\03-SumDigit\03-SumDigit\obj\Debug\03-SumDigit.exe
+C:\greenfox\kovacsnorb\week-03\day-04\03-SumDigit\03-SumDigit\obj\Debug\03-SumDigit.pdb
