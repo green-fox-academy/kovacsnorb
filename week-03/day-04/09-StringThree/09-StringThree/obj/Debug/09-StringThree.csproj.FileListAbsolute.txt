@@ -1,0 +1,6 @@
+C:\greenfox\kovacsnorb\week-03\day-04\09-StringThree\09-StringThree\bin\Debug\09-StringThree.exe.config
+C:\greenfox\kovacsnorb\week-03\day-04\09-StringThree\09-StringThree\bin\Debug\09-StringThree.exe
+C:\greenfox\kovacsnorb\week-03\day-04\09-StringThree\09-StringThree\bin\Debug\09-StringThree.pdb
+C:\greenfox\kovacsnorb\week-03\day-04\09-StringThree\09-StringThree\obj\Debug\09-StringThree.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-04\09-StringThree\09-StringThree\obj\Debug\09-StringThree.exe
+C:\greenfox\kovacsnorb\week-03\day-04\09-StringThree\09-StringThree\obj\Debug\09-StringThree.pdb
