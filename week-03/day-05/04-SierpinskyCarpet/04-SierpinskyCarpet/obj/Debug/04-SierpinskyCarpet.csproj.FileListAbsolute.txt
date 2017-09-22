@@ -1,0 +1,14 @@
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\04-SierpinskyCarpet_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\04-SierpinskyCarpet_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\bin\Debug\04-SierpinskyCarpet.exe.config
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\bin\Debug\04-SierpinskyCarpet.exe
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\bin\Debug\04-SierpinskyCarpet.pdb
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\04-SierpinskyCarpet.g.resources
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\_04_SierpinskyCarpet.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\04-SierpinskyCarpet.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\04-SierpinskyCarpet.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\04-SierpinskyCarpet.exe
+C:\greenfox\kovacsnorb\week-03\day-05\04-SierpinskyCarpet\04-SierpinskyCarpet\obj\Debug\04-SierpinskyCarpet.pdb
