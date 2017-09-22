@@ -1,0 +1,15 @@
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\bin\Debug\02-Circles.exe.config
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\bin\Debug\02-Circles.exe
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\bin\Debug\02-Circles.pdb
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\02-Circles.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\MainWindow.g.cs
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\App.g.cs
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\02-Circles_MarkupCompile.cache
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\02-Circles_MarkupCompile.lref
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\MainWindow.baml
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\02-Circles.g.resources
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\_02_Circles.Properties.Resources.resources
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\02-Circles.csproj.GenerateResource.Cache
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\02-Circles.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\02-Circles.exe
+C:\greenfox\kovacsnorb\week-03\day-05\02-Circles\02-Circles\obj\Debug\02-Circles.pdb
