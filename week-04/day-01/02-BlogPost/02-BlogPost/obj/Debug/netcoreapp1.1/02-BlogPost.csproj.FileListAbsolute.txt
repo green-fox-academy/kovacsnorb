@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\bin\Debug\netcoreapp1.1\02-BlogPost.deps.json
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\bin\Debug\netcoreapp1.1\02-BlogPost.runtimeconfig.json
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\bin\Debug\netcoreapp1.1\02-BlogPost.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\bin\Debug\netcoreapp1.1\02-BlogPost.dll
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\bin\Debug\netcoreapp1.1\02-BlogPost.pdb
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\obj\Debug\netcoreapp1.1\02-BlogPost.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\obj\Debug\netcoreapp1.1\02-BlogPost.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\obj\Debug\netcoreapp1.1\02-BlogPost.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\obj\Debug\netcoreapp1.1\02-BlogPost.dll
+C:\greenfox\kovacsnorb\week-04\day-01\02-BlogPost\02-BlogPost\obj\Debug\netcoreapp1.1\02-BlogPost.pdb
