@@ -7,9 +7,9 @@ namespace _01_GreenFoxOrganization
         static void Main(string[] args)
         {
 
-            var mentor = new Mentor("Olga", 43, "female", "senior");
+            var sponsor = new Sponsor("Sergei", 43, "male", "Yahoo!");
 
-            mentor.Introduce();
+            sponsor.Introduce();
 
             Console.ReadLine();
         }
