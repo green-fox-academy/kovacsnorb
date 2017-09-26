@@ -24,12 +24,12 @@ namespace _01_GreenFoxOrganization
             this.gender = "female";
         }
 
-        public void Introduce()
+        public virtual void Introduce()
         {
             Console.WriteLine("Hi, I am {0}, a {1} year old {2}.", this.name, this.age, this.gender);
         }
 
-        public void GetGoal()
+        public virtual void GetGoal()
         {
             Console.WriteLine("My goal is: Live for the moment!");
         }
