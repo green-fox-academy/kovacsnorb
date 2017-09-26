@@ -6,9 +6,9 @@ namespace _01_GreenFoxOrganization
 {
     class Person
     {
-        private string name;
-        private int age;
-        private string gender;
+        protected string name;
+        protected int age;
+        protected string gender;
 
         public Person(string name, int age, string gender)
         {

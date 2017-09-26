@@ -7,9 +7,9 @@ namespace _01_GreenFoxOrganization
         static void Main(string[] args)
         {
 
-            Person person1 = new Person("Reka", 20, "female");
+            var mentor = new Mentor("Olga", 43, "female", "senior");
 
-            person1.Introduce();
+            mentor.Introduce();
 
             Console.ReadLine();
         }
