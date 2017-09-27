@@ -60,13 +60,13 @@ namespace ExtensionTest
         [Test]
         public void testTranslate_bemutatkozik()
         {
-            Assert.AreEqual("bevemuvutavatkovozevek", extension.Translate("bemutatkozek"));
+            Assert.AreEqual("bevemuvutavatkovozeveeveeveeveeveiviivik", extension.Translate("bemutatkozeeeeeiik"));
         }
 
         [Test]
         public void testTranslate_kolbice()
         {
-            Assert.AreEqual("lavagavapuvus", extension.Translate("lagapus"));
+            Assert.AreEqual("lavagavapavas", extension.Translate("lagapas"));
         }
     }
 }
