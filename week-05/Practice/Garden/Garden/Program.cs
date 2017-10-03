@@ -10,6 +10,10 @@ namespace Garden
     {
         static void Main(string[] args)
         {
+            Garden garden = new Garden();
+            garden.Water(40);
+            garden.Water(70);
+            Console.ReadLine();
         }
     }
 }

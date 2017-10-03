@@ -9,9 +9,10 @@ namespace Garden
     class Plant
     {
         string Name;
+        protected string PlantType;
         float ActualWaterLevel;
-        float Absorb;
-        float MinWaterLevel;
+        protected float Absorb;
+        protected float MinWaterLevel;
 
         public Plant(string name)
         {
@@ -26,6 +27,16 @@ namespace Garden
         public void Water(float waterAmount)
         {
             ActualWaterLevel += waterAmount * Absorb;
+        }
+
+        public void GetStatus()
+        {
+            string status = "doesn't need water";
+            if (IsWaterNeeded())
+            {
+                status = "needs water";
+            }
+            Console.WriteLine("The {0} {1} {2}.", Name, PlantType, status);
         }
     }
 }
