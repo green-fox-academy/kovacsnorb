@@ -10,9 +10,9 @@ namespace TwentyOne
     {
         private static readonly Random rnd = new Random();
 
-        public static Colors Color { get; set; }
-        public static Suits Suit { get; set; }
-        public static Ranks Rank { get; set; }
+        public Colors Color { get; set; }
+        public Suits Suit { get; set; }
+        public Ranks Rank { get; set; }
 
         public Card(Colors color, Suits suit, Ranks rank)
         {

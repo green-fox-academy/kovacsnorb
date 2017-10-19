@@ -10,7 +10,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            var myDeck = Deck.FillDeck();
+            var myDeck = Deck.ShuffleDeck(Deck.FillDeck());
+
+            foreach (Card card in myDeck)
+            {
+                Console.WriteLine(card.Color + " " + card.Suit + " " + card.Rank);
+            }
 
             Console.ReadLine();
         }

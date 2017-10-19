@@ -8,6 +8,8 @@ namespace TwentyOne
 {
     class Deck
     {
+        private static readonly Random rnd = new Random();
+        
         public static List<Card> FillDeck()
         {
             var myDeck = new List<Card>();
@@ -18,12 +20,38 @@ namespace TwentyOne
                 {
                     for (int k = 0; k < Enum.GetNames(typeof(Card.Ranks)).Length; k++)
                     {
-                        myDeck.Add(new Card(Card.Color = (Card.Colors)i, Card.Suit = (Card.Suits)j, Card.Rank = (Card.Ranks)k));
+                        var card = new Card((Card.Colors)i, (Card.Suits)j, (Card.Ranks)k);
+                        myDeck.Add(card);
                     }
                 }
             }
 
             return myDeck;
+        }
+
+        public static List<Card> ShuffleDeck(List<Card> inputDeck)
+        {
+            var tempCardsList = new List<Card>();
+            Card cardToCheck;
+
+            for (int i = 0; i < inputDeck.Count; i++)
+            {
+                tempCardsList.Add(inputDeck[i]);
+            }
+
+            inputDeck.RemoveRange(0, inputDeck.Count());
+
+            for (int i = 0; i < tempCardsList.Count;)
+            {
+                cardToCheck = tempCardsList[rnd.Next(0, tempCardsList.Count)];
+                if (!inputDeck.Contains(cardToCheck))
+                {
+                    inputDeck.Add(cardToCheck);
+                    i++;
+                }
+            }
+
+            return inputDeck;
         }
     }
 }
