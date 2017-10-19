@@ -53,5 +53,26 @@ namespace TwentyOne
 
             return inputDeck;
         }
+
+        public static Card PullFirst(List<Card> inputDeck)
+        {
+            var firstCard = inputDeck[0];
+            inputDeck.RemoveAt(0);
+            return firstCard;
+        }
+
+        public static Card PullLast(List<Card> inputDeck)
+        {
+            var lastCard = inputDeck[inputDeck.Count - 1];
+            inputDeck.RemoveAt(inputDeck.Count - 1);
+            return lastCard;
+        }
+
+        public static Card PullRandom(List<Card> inputDeck)
+        {
+            var randomCard = inputDeck[rnd.Next(0, inputDeck.Count - 1)];
+            inputDeck.Remove(randomCard);
+            return randomCard;
+        }
     }
 }

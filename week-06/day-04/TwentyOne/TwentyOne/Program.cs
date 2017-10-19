@@ -12,10 +12,9 @@ namespace TwentyOne
         {
             var myDeck = Deck.ShuffleDeck(Deck.FillDeck());
 
-            foreach (Card card in myDeck)
-            {
-                Console.WriteLine(card.Color + " " + card.Suit + " " + card.Rank);
-            }
+            var myCard = Deck.PullFirst(myDeck);
+            var myCard2 = Deck.PullLast(myDeck);
+            var myCard3 = Deck.PullRandom(myDeck);
 
             Console.ReadLine();
         }
