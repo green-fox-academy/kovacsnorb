@@ -9,10 +9,11 @@ namespace TwentyOne
     class Deck
     {
         public static readonly Random rnd = new Random();
-        
+        public static List<Card> myDeck;
+
         public static List<Card> FillDeck()
         {
-            var myDeck = new List<Card>();
+            myDeck = new List<Card>();
 
             for (int i = 0; i < Enum.GetNames(typeof(Card.Colors)).Length; i++)
             {

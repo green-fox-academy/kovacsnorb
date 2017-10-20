@@ -9,22 +9,28 @@ namespace TwentyOne
     class Game
     {
         public static readonly Random rnd = new Random();
+        public static List<Card> initialCards;
+        public static int opponentScore = 0;
 
-        public static void OpponentScore()
+        public static int OpponentScore()
         {
-            Console.WriteLine("Welcome to my fantastic game \"Twenty + One\"!" +
-                "\n-----------------------------------" +
-                "\nThe coumputer has {0} points." +
-                "\n-----------------------------------", rnd.Next(15, 22));
+            return rnd.Next(15, 22);
         }
 
         public static List<Card> GetInitialCards(List<Card> actualdeck)
         {
-            List<Card> initialCards = new List<Card>();
+            initialCards = new List<Card>();
             initialCards.Add(Deck.PullRandom(actualdeck));
             initialCards.Add(Deck.PullRandom(actualdeck));
 
             return initialCards;
+        }
+
+        public static List<Card> GetNewCard(List<Card> actualCards, List<Card> actualDeck)
+        {
+            actualCards.Add(Deck.PullRandom(actualDeck));
+
+            return actualCards;
         }
 
         public static int GetPoints(List<Card> actualcards)
@@ -38,13 +44,13 @@ namespace TwentyOne
                 temporaryPoints1 = Card.cardValues[value][0];
                 temporaryPoints2 = Card.cardValues[value][Card.cardValues[value].Count - 1];
 
-                if (points + temporaryPoints2 > 21)
+                if (points + temporaryPoints1 > 21)
                 {
-                    points += temporaryPoints1;
+                    points += temporaryPoints2;
                 }
                 else
                 {
-                    points += temporaryPoints2;
+                    points += temporaryPoints1;
                 }
             } 
 
@@ -53,6 +59,7 @@ namespace TwentyOne
 
         public static void WriteActualDeckAndPoints(List<Card> cardList)
         {
+            Console.WriteLine("-----------------------------------");
             Console.WriteLine("Your cards are: \n");
             foreach (var item in cardList)
             {
@@ -60,6 +67,88 @@ namespace TwentyOne
             }
             Console.WriteLine("\nYour actual points are: {0} points.", Game.GetPoints(cardList));
             Console.WriteLine("-----------------------------------");
+        }
+
+        public static void InitializeCards()
+        {
+            Console.WriteLine("Welcome to the fantastic game \"21\"!");
+
+            var myDeck = Deck.ShuffleDeck(Deck.FillDeck());
+            Game.OpponentScore();
+
+            var yourCards = Game.GetInitialCards(myDeck);
+            Game.WriteActualDeckAndPoints(yourCards);
+        }
+
+        public static void GameStart()
+        {
+            int opponentScore = OpponentScore();
+            Console.WriteLine("Would you like to " +
+                "\n - [H]it a new card or " +
+                "\n - [S]tand at this point?");
+
+            string userInput = Console.ReadLine().ToLower();
+
+            if (userInput == "h")
+            {
+                GetNewCard(initialCards, Deck.myDeck);
+                WriteActualDeckAndPoints(initialCards);
+
+                if (Game.GetPoints(initialCards) > 21)
+                {
+                    Console.WriteLine($"You lost. Your score ({Game.GetPoints(initialCards)}) is over 21.");
+                    RestartGame();
+                }
+                else
+                {
+                    GameStart();
+                }
+            }
+            else if (userInput == "s")
+            {
+                Console.WriteLine("-----------------------------------");
+                if (Game.GetPoints(initialCards) > opponentScore)
+                {
+                    Console.WriteLine($"You won. Your score ({Game.GetPoints(initialCards)}) is " +
+                        $"higher than the computers score ({opponentScore}).");
+                    RestartGame();
+                }
+                else if (Game.GetPoints(initialCards) == opponentScore)
+                {
+                    Console.WriteLine($"It is a draw. Your score ({Game.GetPoints(initialCards)}) is " +
+                        $"the same as the computers score ({opponentScore}).");
+                    RestartGame();
+                }
+                else
+                {
+                    Console.WriteLine($"You lost. Your score ({Game.GetPoints(initialCards)}) is " +
+                        $"lower than the computers score ({opponentScore}).");
+                    RestartGame();
+                }
+            }
+            else
+            {
+                Console.WriteLine("----------------------------------- \nPlease, press D or F.\n");
+                GameStart();
+            }
+        }
+
+        public static void RestartGame()
+        {
+            Console.WriteLine("\nWould you like to play again? [Y]es / [N]o.");
+            string userNewGame = Console.ReadLine().ToLower();
+
+            if (userNewGame == "y")
+            {
+                InitializeCards();
+                GameStart();
+            }
+            else if (userNewGame != "n")
+            {
+                Console.WriteLine("----------------------------------- " +
+                    "\nPlease, press Y or N.\n");
+                RestartGame();
+            }
         }
     }
 }

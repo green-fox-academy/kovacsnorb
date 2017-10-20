@@ -10,13 +10,8 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            var myDeck = Deck.ShuffleDeck(Deck.FillDeck());
-            Game.OpponentScore();
-
-            var yourCards = Game.GetInitialCards(myDeck);
-            Game.WriteActualDeckAndPoints(yourCards);
-
-            Console.ReadLine();
+            Game.InitializeCards();
+            Game.GameStart();
         }
     }
 }
