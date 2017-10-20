@@ -8,7 +8,7 @@ namespace TwentyOne
 {
     class Deck
     {
-        private static readonly Random rnd = new Random();
+        public static readonly Random rnd = new Random();
         
         public static List<Card> FillDeck()
         {
