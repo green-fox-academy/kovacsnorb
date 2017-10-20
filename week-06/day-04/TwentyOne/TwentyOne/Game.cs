@@ -11,10 +11,12 @@ namespace TwentyOne
         public static readonly Random rnd = new Random();
         public static List<Card> initialCards;
         public static int opponentScore = 0;
+        public static readonly int MAXWINNERPOINT = 21;
+        public static readonly int MINOPPONENTPOINT = 15;
 
         public static int OpponentScore()
         {
-            return rnd.Next(15, 22);
+            return rnd.Next(MINOPPONENTPOINT, MAXWINNERPOINT + 1);
         }
 
         public static List<Card> GetInitialCards(List<Card> actualdeck)
@@ -44,7 +46,7 @@ namespace TwentyOne
                 temporaryPoints1 = Card.cardValues[value][0];
                 temporaryPoints2 = Card.cardValues[value][Card.cardValues[value].Count - 1];
 
-                if (points + temporaryPoints1 > 21)
+                if (points + temporaryPoints1 > MAXWINNERPOINT)
                 {
                     points += temporaryPoints2;
                 }
@@ -71,7 +73,7 @@ namespace TwentyOne
 
         public static void InitializeCards()
         {
-            Console.WriteLine("Welcome to the fantastic game \"21\"!");
+            Console.WriteLine($"Welcome to the fantastic game \"{MAXWINNERPOINT}\"!");
 
             var myDeck = Deck.ShuffleDeck(Deck.FillDeck());
             Game.OpponentScore();
@@ -94,9 +96,9 @@ namespace TwentyOne
                 GetNewCard(initialCards, Deck.myDeck);
                 WriteActualDeckAndPoints(initialCards);
 
-                if (Game.GetPoints(initialCards) > 21)
+                if (Game.GetPoints(initialCards) > MAXWINNERPOINT)
                 {
-                    Console.WriteLine($"You lost. Your score ({Game.GetPoints(initialCards)}) is over 21.");
+                    Console.WriteLine($"You lost. Your score ({Game.GetPoints(initialCards)}) is over {MAXWINNERPOINT}.");
                     RestartGame();
                 }
                 else
