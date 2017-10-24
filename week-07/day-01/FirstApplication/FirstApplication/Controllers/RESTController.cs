@@ -14,6 +14,8 @@ namespace FirstApplication.Controllers
     {
         // GET: /<controller>/
 
+        public static int counter = 0;
+
         public IActionResult Index()
         {
             return View();
@@ -22,7 +24,8 @@ namespace FirstApplication.Controllers
         [Route("greeting")]
         public IActionResult Greeting(string name)
         {
-            var myGreeting = new Greeting(1, name);
+            counter++;
+            var myGreeting = new Greeting(counter, name);
             return new JsonResult(myGreeting);
         }
     }
