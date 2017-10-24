@@ -8,12 +8,12 @@ namespace FirstApplication.Models
     public class Greeting
     {
         public long Id { get; set; }
-        public string Content { get; set; }
+        public string Name { get; set; }
 
-        public Greeting(long id, string content)
+        public Greeting(long id, string inputName)
         {
             Id = id;
-            Content = content;
+            Name = "Hello " + inputName;
         }
 
     }

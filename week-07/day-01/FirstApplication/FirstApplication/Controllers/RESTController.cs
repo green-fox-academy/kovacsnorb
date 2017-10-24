@@ -20,9 +20,9 @@ namespace FirstApplication.Controllers
         }
 
         [Route("greeting")]
-        public IActionResult Greeting()
+        public IActionResult Greeting(string name)
         {
-            var myGreeting = new Greeting(1, "Hello, Réka!");
+            var myGreeting = new Greeting(1, name);
             return new JsonResult(myGreeting);
         }
     }
