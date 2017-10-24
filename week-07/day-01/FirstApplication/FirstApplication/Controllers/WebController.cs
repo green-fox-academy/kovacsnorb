@@ -12,6 +12,7 @@ namespace FirstApplication.Controllers
     [Route("web")]
     public class WebController : Controller
     {
+        public static int counter = 0;
         // GET: /<controller>/
         public IActionResult Index()
         {
@@ -19,12 +20,12 @@ namespace FirstApplication.Controllers
         }
 
         [Route("greeting")]
-        public IActionResult Greeting()
+        public IActionResult Greeting(string inputName)
         {
-            var greeting = new Greeting()
+            var greeting = new Greeting(counter, inputName)
             {
-                Id = 1,
-                Content = "Cica"
+                Id = ++counter,
+                Content = inputName
             };
 
             return View(greeting);
