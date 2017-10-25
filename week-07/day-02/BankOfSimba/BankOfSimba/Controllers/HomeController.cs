@@ -20,7 +20,7 @@ namespace BankOfSimba.Controllers
         [Route("simba")]
         public IActionResult GetSimba()
         {
-            var bankAccount = new BankAccount("Simba", "2000", "Animal.Lion", "Zebra", true);
+            var bankAccount = new BankAccount("Simba", "2000", "Animal.Lion", "Zebra", true, true);
             return View(bankAccount);
         }
 
@@ -29,12 +29,12 @@ namespace BankOfSimba.Controllers
         {
             var bankAccount = new BankAccount();
 
-            bankAccount.accountList.Add(new BankAccount("Timon", "1500", "Animal.Meerkat", "Zebra", false));
-            bankAccount.accountList.Add(new BankAccount("Pumbaa", "760", "Animal.Warthog", "Zebra", true));
-            bankAccount.accountList.Add(new BankAccount("Mufasa", "17690", "Animal.Lion", "Zebra", false));
-            bankAccount.accountList.Add(new BankAccount("Sarabi", "7800", "Animal.Lion", "Zebra", false));
-            bankAccount.accountList.Add(new BankAccount("Nala", "2300", "Animal.Lion", "Zebra", true));
-            bankAccount.accountList.Add(new BankAccount("Zazu", "21", "Animal.Hornbill", "Zebra", false));
+            bankAccount.accountList.Add(new BankAccount("Timon", "1500", "Animal.Meerkat", "Zebra", false, true));
+            bankAccount.accountList.Add(new BankAccount("Pumbaa", "760", "Animal.Warthog", "Zebra", true, true));
+            bankAccount.accountList.Add(new BankAccount("Mufasa", "17690", "Animal.Lion", "Zebra", false, false));
+            bankAccount.accountList.Add(new BankAccount("Sarabi", "7800", "Animal.Lion", "Zebra", false, true));
+            bankAccount.accountList.Add(new BankAccount("Nala", "2300", "Animal.Lion", "Zebra", true, false));
+            bankAccount.accountList.Add(new BankAccount("Zazu", "21", "Animal.Hornbill", "Zebra", false, true));
             return View(bankAccount);
         }
     }

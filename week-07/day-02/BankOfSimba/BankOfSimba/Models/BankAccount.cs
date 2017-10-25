@@ -12,6 +12,7 @@ namespace BankOfSimba.Models
         public string AnimalType { get; set; }
         public string Currency { get; set; }
         public bool IsKing { get; set; }
+        public bool IsGoodGuy { get; set; }
 
         public List<BankAccount> accountList = new List<BankAccount>();
 
@@ -19,13 +20,14 @@ namespace BankOfSimba.Models
         {
         }
 
-        public BankAccount(string name, string balance, string animalType, string currency, bool isKing)
+        public BankAccount(string name, string balance, string animalType, string currency, bool isKing, bool isGoodGuy)
         {
             Name = name;
             Balance =  float.Parse(balance).ToString("0.00");
             AnimalType = animalType;
             Currency = currency;
             IsKing = isKing;
+            IsGoodGuy = isGoodGuy;
         }
     }
 }

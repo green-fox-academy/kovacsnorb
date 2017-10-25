@@ -34,6 +34,18 @@
                                 
                             </td>
                         }
+                        @if (Model.accountList[i].IsGoodGuy)
+                        {
+                            <td style="height:40px; width:100px; margin:0;">
+                                Good One
+                            </td>
+                        }
+                        else
+                        {
+                            <td style="height:40px; width:100px; margin:0;">
+                                Bad Guy
+                            </td>
+                        }
                     </tr>
                 </table>
             }
