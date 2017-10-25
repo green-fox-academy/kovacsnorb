@@ -7,12 +7,13 @@
         @{
             for (int i = 0; i < Model.accountList.Count; i++)
             {
-                <table style=" background-repeat:no-repeat; width:560px; margin:0;" cellpadding="5" cellspacing="0" border="1">
-                    <tr style="height:40px; width:560px; margin:0;">
+                <table style=" background-repeat:no-repeat; margin:0;" cellpadding="5" cellspacing="0" border="1">
+                    <tr style="height:40px; margin:0;  @((@Model.accountList[i].IsKing) ? "background-color: cyan; color: darkviolet; " +
+                    "font-size:large" : "background-color: transparent")">
                         <td style="height:40px; width:40px; margin:0;">
                             @(i+1)
                         </td>
-                        <td style="height:40px; width:140px; margin:0;">
+                        <td style="height:40px; width:140px; margin:0; ">
                             @Model.accountList[i].Name
                         </td>
                         <td style="height:40px; width:140px; margin:0;">
@@ -21,6 +22,18 @@
                         <td style="height:40px; width:140px; margin:0;">
                             @Model.accountList[i].AnimalType
                         </td>
+                        @if (Model.accountList[i].IsKing)
+                        {
+                            <td style="height:40px; width:40px; margin:0;">
+                                King
+                            </td>
+                        }
+                        else
+                        {
+                            <td style="height:40px; width:40px; margin:0;">
+                                
+                            </td>
+                        }
                     </tr>
                 </table>
             }
