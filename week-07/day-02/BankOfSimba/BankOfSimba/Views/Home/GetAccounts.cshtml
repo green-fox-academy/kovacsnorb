@@ -1,0 +1,26 @@
+﻿@model BankOfSimba.Models.BankAccount
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+        @{
+            foreach (var list in Model.accountList)
+            {
+                <table style=" background-repeat:no-repeat; width:450px; margin:0;" cellpadding="5" cellspacing="0" border="1">
+                    <tr style="height:40px; width:450px; margin:0;">
+                       <td style="height:40px; width:140px; margin:0;">
+                           @list.Name
+                       </td>
+                        <td style="height:40px; width:140px; margin:0;">
+                            @list.Balance @list.Currency
+                        </td>
+                        <td style="height:40px; width:140px; margin:0;">
+                            @list.AnimalType
+                        </td>
+                    </tr>
+                </table>
+            }
+        }
+</body>
+</html>

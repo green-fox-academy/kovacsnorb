@@ -23,5 +23,19 @@ namespace BankOfSimba.Controllers
             var bankAccount = new BankAccount("Simba", "2000", "Animal.Lion", "Zebra");
             return View(bankAccount);
         }
+
+        [Route("account")]
+        public IActionResult GetAccounts()
+        {
+            var bankAccount = new BankAccount();
+
+            bankAccount.accountList.Add(new BankAccount("Timon", "1500", "Animal.Meerkat", "Zebra"));
+            bankAccount.accountList.Add(new BankAccount("Pumbaa", "760", "Animal.Warthog", "Zebra"));
+            bankAccount.accountList.Add(new BankAccount("Mufasa", "17690", "Animal.Lion", "Zebra"));
+            bankAccount.accountList.Add(new BankAccount("Sarabi", "7800", "Animal.Lion", "Zebra"));
+            bankAccount.accountList.Add(new BankAccount("Nala", "2300", "Animal.Lion", "Zebra"));
+            bankAccount.accountList.Add(new BankAccount("Zazu", "21", "Animal.Hornbill", "Zebra"));
+            return View(bankAccount);
+        }
     }
 }

@@ -12,6 +12,12 @@ namespace BankOfSimba.Models
         public string AnimalType { get; set; }
         public string Currency { get; set; }
 
+        public List<BankAccount> accountList = new List<BankAccount>();
+
+        public BankAccount()
+        {
+        }
+
         public BankAccount(string name, string balance, string animalType, string currency)
         {
             Name = name;
@@ -19,7 +25,5 @@ namespace BankOfSimba.Models
             AnimalType = animalType;
             Currency = currency;
         }
-
-        
     }
 }
