@@ -10,12 +10,16 @@ namespace BankOfSimba.Models
         public string Name { get; set; }
         public string Balance { get; set; }
         public string AnimalType { get; set; }
+        public string Currency { get; set; }
 
-        public BankAccount(string name, string balance, string animalType)
+        public BankAccount(string name, string balance, string animalType, string currency)
         {
             Name = name;
-            Balance = balance;
+            Balance =  float.Parse(balance).ToString("0.00");
             AnimalType = animalType;
+            Currency = currency;
         }
+
+        
     }
 }
