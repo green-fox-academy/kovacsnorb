@@ -1,0 +1,19 @@
+﻿@model CounterApp.Models.Counter
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body style="background-color: coral; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size:x-large">
+    <p>
+        @Model.Number
+    </p>
+
+    @using (Html.BeginForm("Index", "Home"))
+    {
+        <p>
+            <input type="submit" value="Push me!" />
+        </p>
+    }
+
+</body>
+</html>
