@@ -1,0 +1,14 @@
+﻿body {
+    background: url(https://media.giphy.com/media/NbgaOYcp7M7NS/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Vladimir Script';
+    font-size: 90px;
+    color: blue;
+}
+
+p {
+    text-align: center;
+    padding-top: 300px;
+    font-weight: 900;
+}

@@ -1,0 +1,18 @@
+﻿@model GreetSomeone.Models.GiveName
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="~/Css/StyleSheet.css" />
+</head>
+<body>
+    @using (Html.BeginForm("index", "home"))
+    { 
+        <p>
+            Give me your name: @Html.TextBox("UserName") <br /> <br />
+            @*Give me your name: @Html.TextBoxFor(model => model.UserName) <br /> <br />*@
+            <button type="submit">Submit</button>
+        </p>
+    }
+
+</body>
+</html>
