@@ -5,7 +5,11 @@ using System.Threading.Tasks;
 
 namespace FoxClubProject.Models
 {
-    public class TrickType
+    public enum TricksType
     {
+        code,
+        sleep,
+        sing,
+        bakeCake,
     }
 }

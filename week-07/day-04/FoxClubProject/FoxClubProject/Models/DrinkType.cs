@@ -5,7 +5,12 @@ using System.Threading.Tasks;
 
 namespace FoxClubProject.Models
 {
-    public class DrinkType
+    public enum DrinkType
     {
+        milk,
+        tea,
+        milkshake,
+        beer,
+        cider
     }
 }

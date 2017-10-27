@@ -5,7 +5,11 @@ using System.Threading.Tasks;
 
 namespace FoxClubProject.Models
 {
-    public class FoodType
+    public enum FoodType
     {
+        apple,
+        pear,
+        popcorn,
+        rabbit
     }
 }

@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 
 namespace FoxClubProject.Models
 {
-    public class KnownTricks
+    public class Trick
     {
+        
     }
 }
