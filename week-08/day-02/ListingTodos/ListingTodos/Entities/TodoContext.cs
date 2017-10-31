@@ -14,8 +14,6 @@ namespace ListingTodos.Entities
 
         }
 
-        List<Todo> myTodos = new List<Todo>();
-
         public DbSet<Todo> Todos { get; set; }
     }
 }
