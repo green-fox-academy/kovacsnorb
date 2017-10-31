@@ -16,9 +16,9 @@ namespace ListingTodos.Repositories
             TodoContext = todoContext;
         }
 
-        public Todo GetLastTodo()
+        public List<Todo> GetTodo()
         {
-            return TodoContext.Todos.Last();
+            return TodoContext.Todos.ToList();
         }
     }
 }

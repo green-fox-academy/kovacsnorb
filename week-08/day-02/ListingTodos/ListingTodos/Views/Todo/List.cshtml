@@ -1,4 +1,4 @@
-﻿@model ListingTodos.Models.Todo
+﻿@model List<ListingTodos.Models.Todo>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
@@ -6,7 +6,7 @@
 <body>
     <h1>Todos for today</h1>
     <table border="1">
-        <tr>
+        <tr style="font-weight: bold">
             <td width="60">
                 Number
             </td>
@@ -14,27 +14,31 @@
                 Title
             </td>
             <td width="100">
-                Is it done?
-            </td>
-            <td width="100">
                 Is it urgent?
             </td>
-        </tr>
-        
-        <tr>
-            <td>
-                @Model.Id
-            </td>
-            <td>
-                @Model.Title
-            </td>
-            <td>
-                @Model.IsDone
-            </td>
-            <td>
-                @Model.IsUrgent
+            <td width="100">
+                Is it done?
             </td>
         </tr>
+        @{
+            foreach (var todo in Model)
+            {
+                <tr>
+                    <td>
+                        @todo.Id
+                    </td>
+                    <td>
+                        @todo.Title
+                    </td>
+                    <td>
+                        @todo.IsUrgent
+                    </td>
+                    <td>
+                        @todo.IsDone
+                    </td>
+                </tr>
+            }
+        }
     </table>
 </body>
 </html>
