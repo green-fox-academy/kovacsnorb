@@ -1,4 +1,5 @@
 ﻿using ListingTodos.Entities;
+using ListingTodos.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,11 @@ namespace ListingTodos.Repositories
         public TodoRepository(TodoContext todoContext)
         {
             TodoContext = todoContext;
+        }
+
+        public Todo GetLastTodo()
+        {
+            return TodoContext.Todos.Last();
         }
     }
 }
