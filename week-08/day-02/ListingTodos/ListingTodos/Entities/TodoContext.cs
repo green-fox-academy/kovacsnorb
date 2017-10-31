@@ -1,0 +1,21 @@
+﻿using ListingTodos.Models;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ListingTodos.Entities
+{
+    public class TodoContext : DbContext
+    {
+        public TodoContext(DbContextOptions<TodoContext> options) : base(options)
+        {
+
+        }
+
+        List<Todo> myTodos = new List<Todo>();
+
+        public DbSet<Todo> Todos { get; set; }
+    }
+}
