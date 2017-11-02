@@ -1,8 +1,21 @@
-﻿<html xmlns="http://www.w3.org/1999/xhtml">
+﻿@model PokemonWebapp.Models.User
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title></title>
+    <title>@Model.Name's Profile Page</title>
 </head>
 <body>
-    <h1>Jó helyen jársz :)</h1>
+    <h2>@Model.Name's Pokémons:</h2>
+
+    @{ 
+        foreach (var pokemon in Model.Pokemons)
+        {
+            <ul>
+                <li>
+                    [ @pokemon.Id ] - @pokemon.Type, level: @pokemon.Level
+                </li>
+            </ul>
+        }
+
+    }
 </body>
 </html>

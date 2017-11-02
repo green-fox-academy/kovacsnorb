@@ -7,13 +7,12 @@ namespace PokemonWebapp.Models
 {
     public class User
     {
+        public string Name { get; set; }
+        public List<Pokemon> Pokemons { get; set; }
+
         public User()
         {
             Pokemons = new List<Pokemon>();
         }
-
-        public string Name { get; set; }
-        public List<Pokemon> Pokemons { get; set; }
-
     }
 }
