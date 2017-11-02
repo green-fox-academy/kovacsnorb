@@ -4,18 +4,52 @@
     <title>@Model.Name's Profile Page</title>
 </head>
 <body>
+    <h2>
+        <a href="/user/hunt">Let's go hunting!</a>
+    </h2>
+    
     <h2>@Model.Name's Pokémons:</h2>
 
-    @{ 
-        foreach (var pokemon in Model.Pokemons)
-        {
-            <ul>
-                <li>
-                    [ @pokemon.Id ] - @pokemon.Type, level: @pokemon.Level
-                </li>
-            </ul>
-        }
+    <table border="1">
+        <tr>
+            <th width="70">
+                Number
+            </th>
+            <th width="100">
+                Type of Pokémon
+            </th>
+            <th width="100">
+                Level of Pokémon
+            </th>
+            <th width="300">
+                Cute picture
+            </th>
+        </tr>
+    </table>
 
-    }
+    <div>
+        @{
+            foreach (var pokemon in Model.Pokemons)
+            {
+                <table border="1">
+                    <tr>
+                        <th width="70">
+                            @pokemon.Id
+                       </th>
+                        <th width="100">
+                            @pokemon.Type
+                        </th>
+                        <th width="100">
+                            @pokemon.Level
+                        </th>
+                        <th width="300">
+                            <img src="~/Images/@(pokemon.Type).png" height="150" />
+                        </th>
+                    </tr>
+                </table>
+            }
+
+        }
+    </div>
 </body>
 </html>
