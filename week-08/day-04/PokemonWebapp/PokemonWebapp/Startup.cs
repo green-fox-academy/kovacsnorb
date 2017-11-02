@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using PokemonWebapp.Models;
+using PokemonWebapp.ViewModels.HuntViewModel;
 
 namespace PokemonWebapp
 {
@@ -18,7 +19,7 @@ namespace PokemonWebapp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            services.AddSingleton<User>();
+            services.AddSingleton<HuntViewModel>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

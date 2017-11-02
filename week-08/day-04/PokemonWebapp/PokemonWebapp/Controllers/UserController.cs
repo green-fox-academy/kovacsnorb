@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using PokemonWebapp.Models;
+using PokemonWebapp.ViewModels.HuntViewModel;
 
 namespace PokemonWebapp.Controllers
 {
@@ -11,26 +12,58 @@ namespace PokemonWebapp.Controllers
     public class UserController : Controller
     {
         Random random = new Random();
-        User user;
+        //User user;
+        HuntViewModel huntViewModel;
+     
 
-        public UserController(User user)
+        public UserController(HuntViewModel huntViewModel)
         {
-            this.user = user;
+            this.huntViewModel = huntViewModel;
         }
 
         [HttpPost]
-        public IActionResult LoginHandler(User userFromForm)
+        public IActionResult LoginHandler(HuntViewModel huntViewModelFromForm)
         {
-            user.Name = userFromForm.Name;
-            user.Pokemons.Add(new Pokemon() { Id = user.Pokemons.Count + 1, Level = random.Next(1,6), Type = (PokemonType)random.Next(1, 22) });
-            return LocalRedirect("/user/" + user.Name);
+            huntViewModel.User.Name = huntViewModelFromForm.User.Name;
+            huntViewModel.User.Pokemons.Add(new Pokemon() { Id = huntViewModel.User.Pokemons.Count + 1, Level = random.Next(1,6), Type = (PokemonType)random.Next(1, 22) });
+            return LocalRedirect("/user/" + huntViewModel.User.Name);
         }
 
         [HttpGet]
         [Route("/user/{0}")]
         public IActionResult Profile()
         {
-            return View(user);
+            return View(huntViewModel);
+        }
+
+        [HttpGet]
+        [Route("/user/hunt")]
+        public IActionResult Hunt()
+        {
+            var pokemon = new Pokemon()
+            {
+                Id = huntViewModel.User.Pokemons.Count + 1,
+                Level = random.Next(1, 6),
+                Type = (PokemonType)random.Next(1, 22)
+            };
+            huntViewModel.Pokemon = pokemon;
+            return View(huntViewModel);
+        }
+
+        [HttpPost]
+        [Route("/user/catch")]
+        public IActionResult Catch(Pokemon pokemonFromForm)
+        {
+            huntViewModel.User.Pokemons.Add(pokemonFromForm);
+            return LocalRedirect("/user/" + huntViewModel.User.Name);
+        }
+
+        [HttpPost]
+        [Route("/user/remove")]
+        public IActionResult Remove(Pokemon pokemonFromForm)
+        {
+            huntViewModel.User.Pokemons.RemoveAll(m => m.Id == pokemonFromForm.Id);
+            return LocalRedirect("/user/" + huntViewModel.User.Name);
         }
     }
 }

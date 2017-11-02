@@ -1,15 +1,13 @@
-﻿@model PokemonWebapp.Models.User
+﻿@model PokemonWebapp.ViewModels.HuntViewModel.HuntViewModel
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>@Model.Name's Profile Page</title>
+    <title>@Model.User.Name's Profile Page</title>
 </head>
 <body>
-    <h2>
+    <h2>@Model.User.Name's Pokémons:</h2>
+    <h3>
         <a href="/user/hunt">Let's go hunting!</a>
-    </h2>
-    
-    <h2>@Model.Name's Pokémons:</h2>
-
+    </h3>
     <table border="1">
         <tr>
             <th width="70">
@@ -21,7 +19,7 @@
             <th width="100">
                 Level of Pokémon
             </th>
-            <th width="300">
+            <th width="150">
                 Cute picture
             </th>
         </tr>
@@ -29,7 +27,7 @@
 
     <div>
         @{
-            foreach (var pokemon in Model.Pokemons)
+            foreach (var pokemon in Model.User.Pokemons)
             {
                 <table border="1">
                     <tr>
@@ -42,8 +40,8 @@
                         <th width="100">
                             @pokemon.Level
                         </th>
-                        <th width="300">
-                            <img src="~/Images/@(pokemon.Type).png" height="150" />
+                        <th width="150">
+                            <img src="~/Images/@(pokemon.Type).png" height="100" />
                         </th>
                     </tr>
                 </table>
