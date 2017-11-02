@@ -10,6 +10,7 @@ namespace PokemonWebapp.Controllers
     [Route("/user")]
     public class UserController : Controller
     {
+        Random random = new Random();
         User user;
 
         public UserController(User user)
@@ -21,7 +22,7 @@ namespace PokemonWebapp.Controllers
         public IActionResult LoginHandler(User userFromForm)
         {
             user.Name = userFromForm.Name;
-            user.Pokemons.Add(new Pokemon() { Id = 1, Level = 2, Type = PokemonType.Froakie });
+            user.Pokemons.Add(new Pokemon() { Id = user.Pokemons.Count + 1, Level = random.Next(1,6), Type = (PokemonType)random.Next(1, 22) });
             return LocalRedirect("/user/" + user.Name);
         }
 
