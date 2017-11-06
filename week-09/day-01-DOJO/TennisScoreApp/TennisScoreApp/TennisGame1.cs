@@ -6,6 +6,8 @@
         private int player2Score = 0;
         private string player1Name;
         private string player2Name;
+        public static readonly string PLAYER1 = "player1";
+        public static readonly string PLAYER2 = "player2";
 
         public TennisGame1(string player1Name, string player2Name)
         {
@@ -15,7 +17,7 @@
 
         public void WonPoint(string playerName)
         {
-            if (playerName == "player1")
+            if (playerName == PLAYER1)
                 player1Score += 1;
             else
                 player2Score += 1;
@@ -47,10 +49,10 @@
             else if (player1Score >= 4 || player2Score >= 4)
             {
                 var minusResult = player1Score - player2Score;
-                if (minusResult == 1) scoreInWords = "Advantage player1";
-                else if (minusResult == -1) scoreInWords = "Advantage player2";
-                else if (minusResult >= 2) scoreInWords = "Win for player1";
-                else scoreInWords = "Win for player2";
+                if (minusResult == 1) scoreInWords = $"Advantage {PLAYER1}";
+                else if (minusResult == -1) scoreInWords = $"Advantage {PLAYER2}";
+                else if (minusResult >= 2) scoreInWords = $"Win for {PLAYER1}";
+                else scoreInWords = $"Win for {PLAYER2}";
             }
             else
             {
