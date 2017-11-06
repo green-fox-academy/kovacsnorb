@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ResultRelatedWords.cs" />
     <Compile Include="TennisGame1.cs" />
     <Compile Include="ITennisGame.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

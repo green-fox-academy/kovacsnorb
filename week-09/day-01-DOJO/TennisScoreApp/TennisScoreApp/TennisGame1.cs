@@ -1,4 +1,6 @@
-﻿namespace Tennis
+﻿using TennisScoreApp;
+
+namespace Tennis
 {
     class TennisGame1 : ITennisGame
     {
@@ -32,16 +34,16 @@
                 switch (player1Score)
                 {
                     case 0:
-                        scoreInWords = "Love-All";
+                        scoreInWords = $"{ResultRelatedWords.Love.ToString()}-{ResultRelatedWords.All.ToString()}";
                         break;
                     case 1:
-                        scoreInWords = "Fifteen-All";
+                        scoreInWords = $"{ResultRelatedWords.Fifteen.ToString()}-{ResultRelatedWords.All.ToString()}";
                         break;
                     case 2:
-                        scoreInWords = "Thirty-All";
+                        scoreInWords = $"{ResultRelatedWords.Thirty.ToString()}-{ResultRelatedWords.All.ToString()}";
                         break;
                     default:
-                        scoreInWords = "Deuce";
+                        scoreInWords = ResultRelatedWords.Deuce.ToString();
                         break;
 
                 }
@@ -63,16 +65,16 @@
                     switch (tempScore)
                     {
                         case 0:
-                            scoreInWords += "Love";
+                            scoreInWords += ResultRelatedWords.Love.ToString();
                             break;
                         case 1:
-                            scoreInWords += "Fifteen";
+                            scoreInWords += ResultRelatedWords.Fifteen.ToString();
                             break;
                         case 2:
-                            scoreInWords += "Thirty";
+                            scoreInWords += ResultRelatedWords.Thirty.ToString();
                             break;
                         case 3:
-                            scoreInWords += "Forty";
+                            scoreInWords += ResultRelatedWords.Forty.ToString();
                             break;
                     }
                 }
