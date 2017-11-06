@@ -4,12 +4,14 @@ namespace Tennis
 {
     class TennisGame1 : ITennisGame
     {
+        private static readonly string PLAYER1 = "player1";
+        private static readonly string PLAYER2 = "player2";
+        private static readonly int MIN_WIN_SCORE = 4;
         private int player1Score = 0;
         private int player2Score = 0;
         private string player1Name;
         private string player2Name;
-        public static readonly string PLAYER1 = "player1";
-        public static readonly string PLAYER2 = "player2";
+        
 
         public TennisGame1(string player1Name, string player2Name)
         {
@@ -48,7 +50,7 @@ namespace Tennis
 
                 }
             }
-            else if (player1Score >= 4 || player2Score >= 4)
+            else if (player1Score >= MIN_WIN_SCORE || player2Score >= MIN_WIN_SCORE)
             {
                 var minusResult = player1Score - player2Score;
                 if (minusResult == 1) scoreInWords = $"Advantage {PLAYER1}";
