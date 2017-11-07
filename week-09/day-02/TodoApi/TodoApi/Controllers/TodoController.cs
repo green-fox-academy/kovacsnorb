@@ -55,5 +55,28 @@ namespace TodoApi.Controllers
 
             return CreatedAtRoute("GetTodo", new { id = item.Id }, item);
         }
+
+        [HttpPut("{id}")]
+        public IActionResult Update(long id, [FromBody] TodoItem item)
+        {
+            if (item == null || item.Id != id)
+            {
+                return BadRequest();
+            }
+
+            var todo = todoContext.TodoItems.FirstOrDefault(t => t.Id == id);
+            if (todo == null)
+            {
+                return NotFound();
+            }
+
+            todo.Name = item.Name;
+            todo.IsComplete = item.IsComplete;
+
+            todoContext.TodoItems.Update(todo);
+            todoContext.SaveChanges();
+
+            return new NoContentResult();
+        }
     }
 }
