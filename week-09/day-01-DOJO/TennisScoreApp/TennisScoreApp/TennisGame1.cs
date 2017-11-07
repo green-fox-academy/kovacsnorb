@@ -11,7 +11,8 @@ namespace Tennis
         private int player2Score = 0;
         private string player1Name;
         private string player2Name;
-        
+        public string scoreInWords = "";
+
 
         public TennisGame1(string player1Name, string player2Name)
         {
@@ -29,8 +30,6 @@ namespace Tennis
 
         public string GetScore()
         {
-            string scoreInWords = "";
-            int tempScore = 0;
             if (player1Score == player2Score)
             {
                 switch (player1Score)
@@ -60,28 +59,30 @@ namespace Tennis
             }
             else
             {
-                for (var i = 1; i < 3; i++)
-                {
-                    if (i == 1) tempScore = player1Score;
-                    else { scoreInWords += "-"; tempScore = player2Score; }
-                    switch (tempScore)
-                    {
-                        case 0:
-                            scoreInWords += ResultRelatedWords.Love.ToString();
-                            break;
-                        case 1:
-                            scoreInWords += ResultRelatedWords.Fifteen.ToString();
-                            break;
-                        case 2:
-                            scoreInWords += ResultRelatedWords.Thirty.ToString();
-                            break;
-                        case 3:
-                            scoreInWords += ResultRelatedWords.Forty.ToString();
-                            break;
-                    }
-                }
+                scoreInWords = $"{TemporaryScoreInWords(player1Score)}-{TemporaryScoreInWords(player2Score)}";
             }
             return scoreInWords;
+        }
+
+        public string TemporaryScoreInWords(int tempScore)
+        {
+            string tempScoreInWords = "";
+            switch (tempScore)
+            {
+                case 0:
+                    tempScoreInWords += ResultRelatedWords.Love.ToString();
+                    break;
+                case 1:
+                    tempScoreInWords += ResultRelatedWords.Fifteen.ToString();
+                    break;
+                case 2:
+                    tempScoreInWords += ResultRelatedWords.Thirty.ToString();
+                    break;
+                case 3:
+                    tempScoreInWords += ResultRelatedWords.Forty.ToString();
+                    break;
+            };
+            return tempScoreInWords;
         }
     }
 }
