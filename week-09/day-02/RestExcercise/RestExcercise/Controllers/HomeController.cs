@@ -42,10 +42,24 @@ namespace RestExcercise.Controllers
             {
                 return Json(new { error = "Please provide a title!" });
             }
-
             else
             {
                 return Json(new { welcome_message = $"Oh, hi there {name}, my dear {title}!" });
+            }
+        }
+
+        [HttpGet]
+        [Route("/appenda/{appendable}")]
+        [Route("/appenda")]
+        public IActionResult AppendA(string appendable)
+        {
+            if (appendable == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return Json(new { appended= $"{appendable}a" });
             }
         }
     }
