@@ -11,22 +11,22 @@ using Xunit;
 
 namespace RestExerciseTest
 {
+    [Collection("BaseCollection")]
     public class RestDoublingShould
     {
-        private readonly TestServer Server;
-        private readonly HttpClient Client;
+        private TestContext TestContext;
 
-        public RestDoublingShould()
+        public RestDoublingShould(TestContext testContext)
         {
-            Server = new TestServer(new WebHostBuilder().UseStartup<Startup>());
-            Client = Server.CreateClient();
+            TestContext = testContext;
         }
 
         [Fact]
         public async Task ReturnOkStatus()
         {
             // act
-            var response = await Client.GetAsync("/doubling?input=5");
+            var response = await TestContext.Client.GetAsync("/doubling?input=5");
+            //string responseJson = await response.Content.ReadAsStringAsync();
 
             // asster
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
