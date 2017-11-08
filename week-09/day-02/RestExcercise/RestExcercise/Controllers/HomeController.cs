@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using RestExcercise.Models;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -59,7 +60,40 @@ namespace RestExcercise.Controllers
             }
             else
             {
-                return Json(new { appended= $"{appendable}a" });
+                return Json(new { appended = $"{appendable}a" });
+            }
+        }
+
+        [HttpPost]
+        [Route("/dountil/{what}")]
+        [Route("/dountil")]
+        public IActionResult DoUntil([FromBody] DoUntil until, string what)
+        {
+            if (until == null || until.Until == 0)
+            {
+                return Json(new { error = "Please provide a number!" });
+            }
+            if (what == "sum")
+            {
+                int sumOfNumbers = 0;
+                for (int i = 0; i <= until.Until; i++)
+                {
+                    sumOfNumbers += i;
+                }
+                return Json(new { result = sumOfNumbers });
+            }
+            else if (what == "factor")
+            {
+                int multiplyOfNumbers = 1;
+                for (int i = 1; i <= until.Until; i++)
+                {
+                    multiplyOfNumbers *= i;
+                }
+                return Json(new { result = multiplyOfNumbers });
+            }
+            else
+            {
+                return NotFound();
             }
         }
     }
