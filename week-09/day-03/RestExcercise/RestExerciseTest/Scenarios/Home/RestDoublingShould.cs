@@ -31,5 +31,37 @@ namespace RestExerciseTest
             // asster
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
+
+        [Fact]
+        public async Task ReturnOkStatusForNoInput()
+        {
+            // act
+            var response = await TestContext.Client.GetAsync("/doubling");
+
+            // asster
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task ReturnResponseJson()
+        {
+            // act
+            var response = await TestContext.Client.GetAsync("/doubling?input=5");
+            string responseJson = await response.Content.ReadAsStringAsync();
+
+            // asster
+            Assert.Equal("{\"received\":5,\"result\":10}", responseJson);
+        }
+
+        [Fact]
+        public async Task ReturnResponseJsonForNoInput()
+        {
+            // act
+            var response = await TestContext.Client.GetAsync("/doubling?input");
+            string responseJson = await response.Content.ReadAsStringAsync();
+
+            // asster
+            Assert.Equal("{\"error\":\"Please provide an input!\"}", responseJson);
+        }
     }
 }
