@@ -33,19 +33,19 @@ namespace RestExcercise.Controllers
 
         [HttpGet]
         [Route("/greeter")]
-        public IActionResult Greeting([FromQuery] string name, [FromQuery] string title)
+        public IActionResult Greeting([FromQuery] string name, string title)
         {
             if (name == null)
             {
-                return Json(new { error = "Please provide a name!" });
+                return Json(new ErrorMessage("name"));
             }
             else if (title == null)
             {
-                return Json(new { error = "Please provide a title!" });
+                return Json(new ErrorMessage("title"));
             }
             else
             {
-                return Json(new { welcome_message = $"Oh, hi there {name}, my dear {title}!" });
+                return Json(new WelcomeMessage(name, title));
             }
         }
 
