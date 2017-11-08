@@ -19,7 +19,7 @@ namespace RestExcercise.Controllers
 
         [HttpGet]
         [Route("/doubling")]
-        public IActionResult Doubling(int? input)
+        public IActionResult Doubling([FromQuery] int? input)
         {
             if (input == null)
             {
@@ -33,7 +33,7 @@ namespace RestExcercise.Controllers
 
         [HttpGet]
         [Route("/greeter")]
-        public IActionResult Greeting(string name, string title)
+        public IActionResult Greeting([FromQuery] string name, [FromQuery] string title)
         {
             if (name == null)
             {
@@ -52,7 +52,7 @@ namespace RestExcercise.Controllers
         [HttpGet]
         [Route("/appenda/{appendable}")]
         [Route("/appenda")]
-        public IActionResult AppendA(string appendable)
+        public IActionResult AppendA([FromRoute] string appendable)
         {
             if (appendable == null)
             {
