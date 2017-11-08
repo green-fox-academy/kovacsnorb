@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace RestExerciseTest.TextFixture
+namespace RestExerciseTest.TestFixture
 {
     [CollectionDefinition ("BaseCollection")]
     public class Collection : ICollectionFixture<TestContext>
