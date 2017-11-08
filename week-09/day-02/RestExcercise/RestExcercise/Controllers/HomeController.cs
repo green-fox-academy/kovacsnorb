@@ -96,5 +96,56 @@ namespace RestExcercise.Controllers
                 return NotFound();
             }
         }
+
+
+        [HttpPost]
+        [Route("/arrays")]
+        public IActionResult ArrayHandler([FromBody] ArrayToExecute arrayToExecute)
+        {
+            if (arrayToExecute == null)
+            {
+                return Json(new { error = "Please provide input data!" });
+            }
+            else if (arrayToExecute.Numbers.Length == 0)
+            {
+                return Json(new { error = $"Please provide what numbers to do the {arrayToExecute.What}!" });
+            }
+            else if (arrayToExecute.What == "")
+            {
+                return Json(new { error = "Please provide what to do with the numbers!" });
+            }
+
+            if (arrayToExecute.What == "sum")
+            {
+                int sumOfNumbers = 0;
+                for (int i = 0; i <= arrayToExecute.Numbers.Length - 1; i++)
+                {
+                    sumOfNumbers += arrayToExecute.Numbers[i];
+                }
+                return Json(new { result = sumOfNumbers });
+            }
+            else if (arrayToExecute.What == "multiply")
+            {
+                int multiplyOfNumbers = 1;
+                for (int i = 0; i <= arrayToExecute.Numbers.Length - 1; i++)
+                {
+                    multiplyOfNumbers *= arrayToExecute.Numbers[i];
+                }
+                return Json(new { result = multiplyOfNumbers });
+            }
+            else if (arrayToExecute.What == "double")
+            {
+                int[] arrayOfNumbers = new int[arrayToExecute.Numbers.Length];
+                for (int i = 0; i <= arrayToExecute.Numbers.Length - 1; i++)
+                {
+                    arrayOfNumbers[i] = 2 * arrayToExecute.Numbers[i];
+                }
+                return Json(new { result = arrayOfNumbers});
+            }
+            else
+            {
+                return NotFound();
+            }
+        }
     }
 }
