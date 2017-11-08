@@ -3,8 +3,10 @@ using Microsoft.AspNetCore.TestHost;
 using RestExcercise;
 using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Net.Http;
 using System.Text;
+using System.Threading.Tasks;
 using Xunit;
 
 namespace RestExerciseTest
@@ -21,9 +23,13 @@ namespace RestExerciseTest
         }
 
         [Fact]
-        public void ReturnOkStatus()
+        public async Task ReturnOkStatus()
         {
-            Assert.True(true);
+            // act
+            var response = await Client.GetAsync("/doubling?input=5");
+
+            // asster
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
     }
 }
