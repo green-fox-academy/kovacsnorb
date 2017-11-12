@@ -49,5 +49,20 @@ namespace ShinyTodoWebApp.Controllers
             TodoRepository.Remove(id);
             return RedirectToAction("List");
         }
+
+        [Route("todo/{id}/update")]
+        [HttpGet]
+        public IActionResult Update()
+        {
+            return View();
+        }
+
+        [Route("todo/{id}/update")]
+        [HttpPost]
+        public IActionResult Update(Todo todo)
+        {
+            TodoRepository.Update(todo);
+            return RedirectToAction("List");
+        }
     }
 }

@@ -29,6 +29,9 @@
             <td class="boolColumn">
                 Delete
             </td>
+            <td class="boolColumn">
+                Update
+            </td>
         </tr>
 
         @{ 
@@ -67,6 +70,9 @@
                     </td>
                     <td class="boolColumn" align="center">
                         <a href="/todo/@(todo.Id)/delete"><img src="~/Images/dustbin.png" height="30" /></a>
+                    </td>
+                    <td class="boolColumn" align="center">
+                        <a href="/todo/@(todo.Id)/update"><img src="~/Images/refresh.png" height="30" /></a>
                     </td>
                 </tr>
             }
