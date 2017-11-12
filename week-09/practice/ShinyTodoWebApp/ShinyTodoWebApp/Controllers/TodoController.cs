@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ShinyTodoWebApp.Repositories;
+using ShinyTodoWebApp.Models;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -20,9 +21,9 @@ namespace ShinyTodoWebApp.Controllers
 
         [Route("")]
         [Route("todo")]
-        public IActionResult List()
+        public IActionResult List([FromQuery] string isActive)
         {
-            var myTodoList = TodoRepository.ListAllTodo();
+            var myTodoList = TodoRepository.ListAllTodo(isActive);
             return View(myTodoList);
         }
     }

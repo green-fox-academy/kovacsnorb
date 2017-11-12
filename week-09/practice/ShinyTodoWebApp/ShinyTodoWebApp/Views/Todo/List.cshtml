@@ -3,10 +3,11 @@
 <head>
     <title></title>
     <link rel="stylesheet" type="text/css" href="~/Css/StyleSheet.css" />
+    <link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
 </head>
 <body>
     <h1>
-        This is my first todo
+        My todo list:
     </h1>
 
     <table border="1">
@@ -35,11 +36,29 @@
                     <td class="titleColumn">
                         @todo.Title
                     </td>
-                    <td class="boolColumn">
-                        @todo.IsUrgent
+                    <td class="boolColumn" align="center">
+                        @{
+                            if (@todo.IsUrgent == true)
+                            {
+                                <img src="~/Images/checkbox.png" height="30" />
+                            }
+                            else
+                            {
+                                <img src="~/Images/checkbox_unchecked.png" height="30" />
+                            }
+                        }
                     </td>
-                    <td class="boolColumn">
-                        @todo.IsDone
+                    <td class="boolColumn" align="center">
+                        @{
+                            if (@todo.IsDone == true)
+                            {
+                                <img src="~/Images/checkbox.png" height="30" />
+                            }
+                            else
+                            {
+                                <img src="~/Images/checkbox_unchecked.png" height="30" />
+                            }
+                        }
                     </td>
                 </tr>
             }

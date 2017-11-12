@@ -1,7 +1,7 @@
 ﻿body {
-    font-family: 'Comic Sans MS';
+    font-family: 'Special Elite';
     font-size: 25px;
-    font-weight: lighter;
+    background-image: url(../Images/background2.jpg);
 }
 
 td.idColumn{
@@ -13,9 +13,12 @@ td.titleColumn {
 }
 
 td.boolColumn {
-    width: 100px;
+    width: 120px;
+    vertical-align:central;
+    align-content: center;
 }
 
 table {
-    background-color: yellowgreen;
+    background-image: url(../Images/background3.jpg);
+    font-size: 22px;
 }

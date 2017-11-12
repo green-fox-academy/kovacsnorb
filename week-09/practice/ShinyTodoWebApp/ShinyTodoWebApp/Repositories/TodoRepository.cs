@@ -16,41 +16,16 @@ namespace ShinyTodoWebApp.Repositories
             TodoContext = todoContext;
         }
 
-        public List<Todo> FillList()
+        public List<Todo> ListAllTodo(string inputStatus)
         {
-            List<Todo> myList = new List<Todo>
+            if (inputStatus is null)
             {
-                new Todo()
-                {
-                    Id = 1,
-                    Title = "Go home",
-                    IsUrgent = true,
-                    IsDone = false,
-                    IsVisible = true,
-                },
-
-                new Todo()
-                {
-                    Id = 2,
-                    Title = "Drink coffee",
-                    IsUrgent = false,
-                    IsDone = true,
-                    IsVisible = true,
-                }
-            };
-
-            return myList;
-        }
-
-        public List<Todo> ListAllTodo()
-        {
-            List<Todo> myList = new List<Todo>();
-            foreach (var todo in TodoContext.Todos)
-            {
-                myList.Add(todo);
+                return TodoContext.Todos.ToList();
             }
-
-            return myList;
+            else
+            {
+                return TodoContext.Todos.Where(t => t.IsDone != Boolean.Parse(inputStatus)).ToList();
+            }
         }
     }
 }
