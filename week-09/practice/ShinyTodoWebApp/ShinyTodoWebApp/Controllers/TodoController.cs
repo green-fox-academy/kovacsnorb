@@ -22,7 +22,7 @@ namespace ShinyTodoWebApp.Controllers
         [Route("todo")]
         public IActionResult List()
         {
-            var myTodoList = TodoRepository.FillList();
+            var myTodoList = TodoRepository.ListAllTodo();
             return View(myTodoList);
         }
     }

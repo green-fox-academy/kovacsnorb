@@ -41,5 +41,16 @@ namespace ShinyTodoWebApp.Repositories
 
             return myList;
         }
+
+        public List<Todo> ListAllTodo()
+        {
+            List<Todo> myList = new List<Todo>();
+            foreach (var todo in TodoContext.Todos)
+            {
+                myList.Add(todo);
+            }
+
+            return myList;
+        }
     }
 }
