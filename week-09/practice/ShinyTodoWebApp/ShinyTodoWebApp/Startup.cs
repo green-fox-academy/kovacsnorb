@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using System.IO;
 using ShinyTodoWebApp.Entities;
 using Microsoft.EntityFrameworkCore;
+using ShinyTodoWebApp.Repositories;
 
 namespace ShinyTodoWebApp
 {
@@ -29,6 +30,7 @@ namespace ShinyTodoWebApp
 
             services.AddMvc();
             services.AddDbContext<TodoContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:TodoConnection"]));
+            services.AddScoped<TodoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
