@@ -27,5 +27,11 @@ namespace ShinyTodoWebApp.Repositories
                 return TodoContext.Todos.Where(t => t.IsDone != Boolean.Parse(inputStatus)).ToList();
             }
         }
+
+        public void AddNew(Todo newTodo)
+        {
+            TodoContext.Todos.Add(newTodo);
+            TodoContext.SaveChanges();
+        }
     }
 }

@@ -26,5 +26,20 @@ namespace ShinyTodoWebApp.Controllers
             var myTodoList = TodoRepository.ListAllTodo(isActive);
             return View(myTodoList);
         }
+
+        [Route("todo/add")]
+        [HttpGet]
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        [Route("todo/add")]
+        [HttpPost]
+        public IActionResult Add(Todo todo)
+        {
+            TodoRepository.AddNew(todo);
+            return RedirectToAction("List");
+        }
     }
 }
