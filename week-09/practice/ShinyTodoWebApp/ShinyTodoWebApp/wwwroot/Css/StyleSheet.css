@@ -1,0 +1,21 @@
+﻿body {
+    font-family: 'Comic Sans MS';
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+td.idColumn{
+    width: 50px;
+}
+
+td.titleColumn {
+    width: 300px;
+}
+
+td.boolColumn {
+    width: 100px;
+}
+
+table {
+    background-color: yellowgreen;
+}

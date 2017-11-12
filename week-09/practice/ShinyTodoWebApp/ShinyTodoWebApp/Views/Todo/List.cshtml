@@ -2,23 +2,49 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
+    <link rel="stylesheet" type="text/css" href="~/Css/StyleSheet.css" />
 </head>
 <body>
     <h1>
         This is my first todo
     </h1>
 
-    <div>
-        <ul>
-            @{
-                foreach (var listElement in Model)
-                {
-                    <li>
-                        @listElement.Title
-                    </li>
-                }
+    <table border="1">
+        <tr>
+            <td class="idColumn">
+                Id
+            </td>
+            <td class="titleColumn">
+                Title
+            </td>
+            <td class="boolColumn">
+                Is urgent?
+            </td>
+            <td class="boolColumn">
+                Is done?
+            </td>
+        </tr>
+
+        @{ 
+            foreach (var todo in Model)
+            {
+                <tr>
+                    <td class="idColumn">
+                        @todo.Id
+                    </td>
+                    <td class="titleColumn">
+                        @todo.Title
+                    </td>
+                    <td class="boolColumn">
+                        @todo.IsUrgent
+                    </td>
+                    <td class="boolColumn">
+                        @todo.IsDone
+                    </td>
+                </tr>
             }
-        </ul>
-    </div>
+        }
+
+    </table>
 </body>
 </html>
