@@ -33,5 +33,12 @@ namespace ShinyTodoWebApp.Repositories
             TodoContext.Todos.Add(newTodo);
             TodoContext.SaveChanges();
         }
+
+        public void Remove(string id)
+        {
+            var todoToRemove = TodoContext.Todos.FirstOrDefault(t => t.Id == int.Parse(id));
+            TodoContext.Remove(todoToRemove);
+            TodoContext.SaveChanges();
+        }
     }
 }

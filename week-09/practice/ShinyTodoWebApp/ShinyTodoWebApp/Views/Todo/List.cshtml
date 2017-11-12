@@ -26,6 +26,9 @@
             <td class="boolColumn">
                 Is done?
             </td>
+            <td class="boolColumn">
+                Delete
+            </td>
         </tr>
 
         @{ 
@@ -61,6 +64,9 @@
                                 <img src="~/Images/checkbox_unchecked.png" height="30" />
                             }
                         }
+                    </td>
+                    <td class="boolColumn" align="center">
+                        <a href="/todo/@(todo.Id)/delete"><img src="~/Images/dustbin.png" height="30" /></a>
                     </td>
                 </tr>
             }
