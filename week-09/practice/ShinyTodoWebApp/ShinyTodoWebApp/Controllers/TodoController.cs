@@ -52,9 +52,10 @@ namespace ShinyTodoWebApp.Controllers
 
         [Route("todo/{id}/update")]
         [HttpGet]
-        public IActionResult Update()
+        public IActionResult Update([FromRoute] string id)
         {
-            return View();
+            var todoToUpdate = TodoRepository.GetTodoFromId(id);
+            return View(todoToUpdate);
         }
 
         [Route("todo/{id}/update")]

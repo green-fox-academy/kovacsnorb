@@ -49,5 +49,10 @@ namespace ShinyTodoWebApp.Repositories
             todoToUpdate.IsUrgent = todo.IsUrgent;
             TodoContext.SaveChanges();
         }
+
+        public Todo GetTodoFromId(string id)
+        {
+            return TodoContext.Todos.FirstOrDefault(t => t.Id == int.Parse(id));
+        }
     }
 }

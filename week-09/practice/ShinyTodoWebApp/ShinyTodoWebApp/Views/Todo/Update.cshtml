@@ -15,32 +15,26 @@
         <table>
             <tr>
                 <td>
-                    @Html.LabelFor(t => t.Title) <br />
+                    @Html.LabelFor(t => t.Title)<br />
+                </td>
+                <td>
+                    @Html.TextBoxFor(t => t.Title)<br />
                 </td>
             </tr>
             <tr>
                 <td>
-                    @Html.TextBoxFor(t => t.Title)
+                    @Html.LabelFor(t => t.IsUrgent)<br />
+                </td>
+                <td>
+                    @Html.CheckBoxFor(t => t.IsUrgent)<br />
                 </td>
             </tr>
             <tr>
                 <td>
-                    @Html.LabelFor(t => t.IsUrgent) <br />
+                    @Html.LabelFor(t => t.IsDone)<br />
                 </td>
-            </tr>
-            <tr>
                 <td>
-                    @Html.CheckBoxFor(t => t.IsUrgent)
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    @Html.LabelFor(t => t.IsDone) <br />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    @Html.CheckBoxFor(t => t.IsDone)
+                    @Html.CheckBoxFor(t => t.IsDone)<br />
                 </td>
             </tr>
         </table>

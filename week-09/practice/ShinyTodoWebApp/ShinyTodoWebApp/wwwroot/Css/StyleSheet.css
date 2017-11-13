@@ -2,6 +2,7 @@
     font-family: 'Special Elite';
     font-size: 25px;
     background-image: url(../Images/background2.jpg);
+    filter: 50;
 }
 
 td.idColumn{
