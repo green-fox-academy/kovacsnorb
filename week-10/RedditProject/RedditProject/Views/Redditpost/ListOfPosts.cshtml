@@ -1,0 +1,55 @@
+﻿@model List<RedditProject.Models.Redditpost>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="~/Css/StyleSheet.css" />
+</head>
+<body>
+    <table border="1" style="background-color: aqua">
+        <tr>
+            <td>
+                Title
+            </td>
+            <td>
+                Content
+            </td>
+            <td>
+                Upvote
+            </td>
+            <td>
+                Downvote
+            </td>
+            <td>
+                Sum of votes
+            </td>
+        </tr>
+        @{
+            foreach (var post in Model)
+            {
+                <tr>
+                    <td>
+                        @post.Title
+                    </td>
+                    <td>
+                        @post.Content
+                    </td>
+                    <td>
+                        @post.UpVote
+                    </td>
+                    <td>
+                        @post.DownVote
+                    </td>
+                    <td>
+                        @{ 
+                            var result = (@post.UpVote - @post.DownVote);
+                        }
+                        @result
+                    </td>
+                </tr>
+             }
+        }
+    </table>
+    
+    
+</body>
+</html>
