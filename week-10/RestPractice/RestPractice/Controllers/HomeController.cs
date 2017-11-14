@@ -68,5 +68,24 @@ namespace RestPractice.Controllers
                 return NotFound();
             }
         }
+
+        [HttpPost]
+        [Route("/dountil/{what}")]
+        [Route("/dountil")]
+        public IActionResult Dountil([FromBody] DoUntilObj until, [FromRoute] string what)
+        {
+            if (until is null || until.until == 0)
+            {
+                return Json(new Error("a number"));
+            }
+            else if (what is null)
+            {
+                return Json(new Error("an operation"));
+            }
+            else
+            {
+                return Json(new Dountil(what, until));
+        }
+    }
     }
 }
