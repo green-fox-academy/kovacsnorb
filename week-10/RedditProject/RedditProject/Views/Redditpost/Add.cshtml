@@ -1,0 +1,31 @@
+﻿@model RedditProject.Models.Redditpost
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="~/Css/StyleSheet.css" />
+</head>
+<body>
+    @using (Html.BeginForm("add", "redditpost"))
+    {
+        <table>
+            <tr>
+                <td>
+                    @Html.LabelFor(t => t.Title) <br />
+                </td>
+                <td>
+                    @Html.TextBoxFor(t => t.Title)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(t => t.Content) <br />
+                </td>
+                <td>
+                    @Html.TextBoxFor(t => t.Content)
+                </td>
+            </tr>
+        </table>
+            <br /><button type="submit">Add to the Reddit flow</button>
+    }
+</body>
+</html>

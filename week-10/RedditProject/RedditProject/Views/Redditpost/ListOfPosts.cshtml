@@ -5,6 +5,8 @@
     <link rel="stylesheet" type="text/css" href="~/Css/StyleSheet.css" />
 </head>
 <body>
+    <a href="/posts/add">Add new post</a><br /><br />
+    
     <table border="1" style="background-color: aqua">
         <tr>
             <td>
@@ -21,6 +23,12 @@
             </td>
             <td>
                 Sum of votes
+            </td>
+            <td>
+                Upvote post
+            </td>
+            <td>
+                Downvote post
             </td>
         </tr>
         @{
@@ -44,6 +52,12 @@
                             var result = (@post.UpVote - @post.DownVote);
                         }
                         @result
+                    </td>
+                    <td align="center">
+                        <a href="/posts/@post.Id/upvote"><img src="~/Images/up.png" height="25" /></a>
+                    </td>
+                    <td align="center">
+                        <a href="/posts/@post.Id/downvote"><img src="~/Images/down.png" height="25" /></a>
                     </td>
                 </tr>
              }
