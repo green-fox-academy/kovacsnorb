@@ -30,5 +30,28 @@ namespace RestPractice.Controllers
                 return Json(new Doubling(int.Parse(input)));
             }
         }
+
+        [HttpGet]
+        [Route("/greeter")]
+        public IActionResult Index([FromQuery] string name, string title)
+        {
+            //if (name == null && title == null)
+            //{
+            //    return Json(new Error("a name and a title"));
+            //}
+            //else 
+            if (name == null)
+            {
+                return Json(new Error("a name"));
+            }
+            else if (title == null)
+            {
+                return Json(new Error("a title"));
+            }
+            else
+            {
+                return Json(new Welcome(name, title));
+            }
+        }
     }
 }
