@@ -19,7 +19,7 @@ namespace RestPractice.Controllers
 
         [HttpGet]
         [Route("/doubling")]
-        public IActionResult Index([FromQuery] string input)
+        public IActionResult Double([FromQuery] string input)
         {
             if (input is null)
             {
@@ -33,7 +33,7 @@ namespace RestPractice.Controllers
 
         [HttpGet]
         [Route("/greeter")]
-        public IActionResult Index([FromQuery] string name, string title)
+        public IActionResult Greet([FromQuery] string name, string title)
         {
             //if (name == null && title == null)
             //{
@@ -51,6 +51,21 @@ namespace RestPractice.Controllers
             else
             {
                 return Json(new Welcome(name, title));
+            }
+        }
+
+        [HttpGet]
+        [Route("/appenda/{inputFromRoute}")]
+        [Route("/appenda")]
+        public IActionResult Append([FromRoute] string inputFromRoute)
+        {
+            if (inputFromRoute != null)
+            {
+                return Json(new Append(inputFromRoute));
+            }
+            else
+            {
+                return NotFound();
             }
         }
     }
