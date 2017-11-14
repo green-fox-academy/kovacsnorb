@@ -18,7 +18,7 @@ namespace RedditProject.Repositories
 
         public List<Redditpost> FillList()
         {
-            return redditpostContext.Redditposts.ToList();
+            return redditpostContext.Redditposts.OrderByDescending(t => (t.UpVote - t.DownVote)).ToList();
         }
 
         public void AddNew(Redditpost newPost)
