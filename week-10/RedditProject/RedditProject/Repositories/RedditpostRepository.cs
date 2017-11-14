@@ -45,6 +45,5 @@ namespace RedditProject.Repositories
         {
             return redditpostContext.Redditposts.FirstOrDefault(p => p.Id == id);
         }
-
     }
 }
