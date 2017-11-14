@@ -85,7 +85,25 @@ namespace RestPractice.Controllers
             else
             {
                 return Json(new Dountil(what, until));
+            }           
         }
-    }
+
+        [HttpPost]
+        [Route("/arrays")]
+        public IActionResult ArrayHandler([FromBody] OperationObj inputOperation)
+        {
+            if (inputOperation.what == "" || inputOperation.what is null)
+            {
+                return Json(new Error("what to do with the numbers"));
+            }
+            else if (inputOperation.numbers is null || inputOperation.numbers.Length == 0)
+            {
+                return Json(new Error("what numbers to do the operation with"));
+            }
+            else
+            {
+                return Json(new Operation(inputOperation));
+            }
+        }
     }
 }
