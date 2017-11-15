@@ -59,6 +59,5 @@ namespace RestPracticeIntegrationTest.Scenarios.Home
             //assert
             Assert.Equal("{\"error\":\"Please provide an input!\"}", responseJson);
         }
-
     }
 }

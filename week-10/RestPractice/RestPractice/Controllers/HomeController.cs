@@ -35,11 +35,11 @@ namespace RestPractice.Controllers
         [Route("/greeter")]
         public IActionResult Greet([FromQuery] string name, string title)
         {
-            //if (name == null && title == null)
-            //{
-            //    return Json(new Error("a name and a title"));
-            //}
-            //else 
+            if (name == null && title == null)
+            {
+                return Json(new Error("a name and a title"));
+            }
+            else
             if (name == null)
             {
                 return Json(new Error("a name"));
