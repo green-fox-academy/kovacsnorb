@@ -8,7 +8,7 @@ using System.Text;
 
 namespace RestPracticeIntegrationTest.TestFixture
 {
-    class TestContext
+    public class TestContext
     {
         public HttpClient Client { get; set; }
         private readonly TestServer Server;
