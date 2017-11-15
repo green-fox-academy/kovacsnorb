@@ -27,5 +27,38 @@ namespace RestPracticeIntegrationTest.Scenarios.Home
             //assert
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
+
+        [Fact]
+        public async Task ReturnNotOkStatus()
+        {
+            //act
+            var response = await TestContext.Client.GetAsync("/doubling");
+
+            //assert
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+        }
+
+        [Fact]
+        public async Task ReturnResponseJsonIfInputIsAdded()
+        {
+            //act
+            var response = await TestContext.Client.GetAsync("/doubling?input=13");
+            var responseJson = await response.Content.ReadAsStringAsync();
+
+            //assert
+            Assert.Equal("{\"received\":13,\"result\":26}", responseJson);
+        }
+
+        [Fact]
+        public async Task ReturnResponseJsonIfInfutIsMissing()
+        {
+            //act
+            var response = await TestContext.Client.GetAsync("/doubling?input");
+            var responseJson = await response.Content.ReadAsStringAsync();
+
+            //assert
+            Assert.Equal("{\"error\":\"Please provide an input!\"}", responseJson);
+        }
+
     }
 }
