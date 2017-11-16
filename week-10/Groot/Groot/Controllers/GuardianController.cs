@@ -1,26 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Groot.Services;
 using Microsoft.AspNetCore.Mvc;
-using Groot.Models;
 
 namespace Groot.Controllers
 {
-    public class GuardianController : Controller
+    public class GuardianController
     {
         [HttpGet]
         [Route("groot")]
         public IActionResult Index([FromQuery] string someMessage)
         {
-            if (someMessage is null)
-            {
-                return Json(new Error());
-            }
-            else
-            {
-                return Json(new TranslatedGroot(someMessage));
-            }
+            var myService = new GuardianServices();
+            return myService.GuardianTranslator(someMessage); ;
         }
     }
 }
