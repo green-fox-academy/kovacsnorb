@@ -11,9 +11,10 @@ using System;
 namespace RedditApiProject.Migrations
 {
     [DbContext(typeof(PostContext))]
-    partial class RedditContextModelSnapshot : ModelSnapshot
+    [Migration("20171116235421_Initial")]
+    partial class Initial
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -27,7 +28,7 @@ namespace RedditApiProject.Migrations
 
                     b.Property<int>("Score");
 
-                    b.Property<int>("Timestamp");
+                    b.Property<DateTime>("Timestamp");
 
                     b.Property<string>("Title");
 

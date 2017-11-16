@@ -9,16 +9,27 @@ namespace RedditApiProject.Repositories
 {
     public class PostRepository
     {
-        PostContext postcontext;
+        PostContext postContext;
 
         public PostRepository(PostContext postcontext)
         {
-            this.postcontext = postcontext;
+            this.postContext = postcontext;
         }
 
         public List<Post> FillList()
         {
-            return postcontext.Posts.OrderByDescending(p => p.Score).ToList();
+            return postContext.Posts.OrderByDescending(p => p.Score).ToList();
+        }
+
+        public Post GetLastPost()
+        {
+            return postContext.Posts.LastOrDefault();
+        }
+
+        public void AddPostToList(Post post)
+        {
+            postContext.Posts.Add(post);
+            postContext.SaveChanges();
         }
     }
 }

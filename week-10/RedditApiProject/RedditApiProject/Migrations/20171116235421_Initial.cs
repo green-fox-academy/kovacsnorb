@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace RedditApiProject.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class Initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -16,7 +16,7 @@ namespace RedditApiProject.Migrations
                     Id = table.Column<long>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     Score = table.Column<int>(nullable: false),
-                    Timestamp = table.Column<int>(nullable: false),
+                    Timestamp = table.Column<DateTime>(nullable: false),
                     Title = table.Column<string>(nullable: true),
                     Url = table.Column<string>(nullable: true)
                 },
