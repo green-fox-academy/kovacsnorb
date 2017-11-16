@@ -11,9 +11,10 @@ using System;
 namespace RedditApiProject.Migrations
 {
     [DbContext(typeof(PostContext))]
-    partial class RedditContextModelSnapshot : ModelSnapshot
+    [Migration("20171116224702_Modified")]
+    partial class Modified
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

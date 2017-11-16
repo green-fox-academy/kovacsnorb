@@ -10,7 +10,7 @@ using System;
 
 namespace RedditApiProject.Migrations
 {
-    [DbContext(typeof(RedditContext))]
+    [DbContext(typeof(PostContext))]
     [Migration("20171116221352_InitialCreate")]
     partial class InitialCreate
     {

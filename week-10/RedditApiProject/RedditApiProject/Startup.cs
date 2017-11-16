@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using System.IO;
 using RedditApiProject.Entities;
 using Microsoft.EntityFrameworkCore;
+using RedditApiProject.Repositories;
 
 namespace RedditApiProject
 {
@@ -28,8 +29,8 @@ namespace RedditApiProject
             Configuration = builder.Build();
 
             services.AddMvc();
-
-            services.AddDbContext<RedditContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:RedditConnection"]));
+            services.AddDbContext<PostContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:RedditConnection"]));
+            services.AddScoped<PostRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

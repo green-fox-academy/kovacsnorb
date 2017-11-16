@@ -8,9 +8,9 @@ using RedditApiProject.Models;
 
 namespace RedditApiProject.Entities
 {
-    public class RedditContext : DbContext
+    public class PostContext : DbContext
     {
-        public RedditContext(DbContextOptions<RedditContext> options) : base(options)
+        public PostContext(DbContextOptions<PostContext> options) : base(options)
         {
         }
 
