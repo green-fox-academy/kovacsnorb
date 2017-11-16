@@ -26,5 +26,12 @@ namespace Groot.Controllers
         {
             return new CargoService().ShowActualCargo();
         }
+
+        [HttpGet]
+        [Route("rocket/fill")]
+        public IActionResult LoadShip([FromQuery] string caliber, int amount)
+        {
+            return new CargoService().FillCargo(caliber, amount);
+        }
     }
 }

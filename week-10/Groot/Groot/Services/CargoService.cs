@@ -13,5 +13,10 @@ namespace Groot.Services
         {
             return Json(new ActualCargo());
         }
+
+        public IActionResult FillCargo(string caliber, int amount)
+        {
+            return Json(new FillCargo(caliber, amount));
+        }
     }
 }

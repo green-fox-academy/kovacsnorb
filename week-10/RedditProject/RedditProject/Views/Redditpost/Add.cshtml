@@ -3,9 +3,10 @@
 <head>
     <title></title>
     <link rel="stylesheet" type="text/css" href="~/Css/StyleSheet.css" />
-    <link href="https://fonts.googleapis.com/css?family=Bungee+Shade" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bungee+Shade|Ubuntu|Bungee" rel="stylesheet">
 </head>
-<body>
+<body style="font-family: 'Ubuntu'; font-size: 40px; font-weight: bold">
+    
     @using (Html.BeginForm("add", "redditpost"))
     {
         <table>
@@ -14,7 +15,7 @@
                     @Html.LabelFor(t => t.Title) <br />
                 </td>
                 <td>
-                    @Html.TextBoxFor(t => t.Title)
+                    @Html.TextBoxFor(t => t.Title) @Html.ValidationMessageFor(t => t.Title)
                 </td>
             </tr>
             <tr>
@@ -22,11 +23,27 @@
                     @Html.LabelFor(t => t.Content) <br />
                 </td>
                 <td>
-                    @Html.TextBoxFor(t => t.Content)
+                    @Html.TextBoxFor(t => t.Content) @Html.ValidationMessageFor(t => t.Content)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(t => t.UpVote) <br />
+                </td>
+                <td>
+                    @Html.TextBoxFor(t => t.UpVote) @Html.ValidationMessageFor(t => t.UpVote)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(t => t.DownVote) <br />
+                </td>
+                <td>
+                    @Html.TextBoxFor(t => t.DownVote) @Html.ValidationMessageFor(t => t.DownVote)
                 </td>
             </tr>
         </table>
-            <br /><button type="submit">Add to the Reddit flow</button>
+        <button type="submit">Add to the Reddit flow</button>
     }
 </body>
 </html>

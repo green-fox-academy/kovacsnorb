@@ -38,8 +38,15 @@ namespace RedditProject.Controllers
         [HttpPost]
         public IActionResult Add(Redditpost newPost)
         {
-            redditpostRepository.AddNew(newPost);
-            return RedirectToAction("ListOfPosts");
+            if (ModelState.IsValid)
+            {
+                redditpostRepository.AddNew(newPost);
+                return RedirectToAction("ListOfPosts");
+            }
+            else
+            {
+                return View("Add");
+            }
         }
 
         [Route("posts/{id}/upvote")]
