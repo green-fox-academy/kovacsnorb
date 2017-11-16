@@ -10,6 +10,5 @@
             received = inputReceived;
             translated = "I am Groot!";
         }
-
     }
 }

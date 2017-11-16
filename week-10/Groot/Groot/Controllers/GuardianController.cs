@@ -9,8 +9,16 @@ namespace Groot.Controllers
         [Route("groot")]
         public IActionResult Index([FromQuery] string someMessage)
         {
-            var myService = new GuardianServices();
-            return myService.GuardianTranslator(someMessage); ;
+            var myService = new GuardianService();
+            return myService.GuardianTranslator(someMessage);
+        }
+
+        [HttpGet]
+        [Route("yondu")]
+        public IActionResult Arrow([FromQuery] double distance, double time)
+        {
+            var myService = new ArrowService();
+            return myService.ArrowCalculator(distance, time);
         }
     }
 }

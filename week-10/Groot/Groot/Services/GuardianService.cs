@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Groot.Services
 {
-    public class GuardianServices : Controller
+    public class GuardianService : Controller
     {
         public JsonResult GuardianTranslator(string message)
         {
