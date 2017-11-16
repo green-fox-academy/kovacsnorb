@@ -10,7 +10,7 @@ namespace Groot.Services
 {
     public class ArrowService : Controller
     {
-        internal IActionResult ArrowCalculator(double distance, double time)
+        public IActionResult ArrowCalculator(double distance, double time)
         {
             if (time == 0 || distance < 0)
             {

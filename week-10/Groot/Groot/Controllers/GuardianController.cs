@@ -1,4 +1,5 @@
-﻿using Groot.Services;
+﻿using Groot.Models;
+using Groot.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Groot.Controllers
@@ -17,6 +18,13 @@ namespace Groot.Controllers
         public IActionResult Arrow([FromQuery] double distance, double time)
         {
             return new ArrowService().ArrowCalculator(distance, time);
+        }
+
+        [HttpGet]
+        [Route("rocket")]
+        public IActionResult LoadShip()
+        {
+            return new CargoService().ShowActualCargo();
         }
     }
 }
