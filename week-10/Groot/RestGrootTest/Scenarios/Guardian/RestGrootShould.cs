@@ -32,7 +32,7 @@ namespace RestGrootTest.Scenarios.Guardian
             var response = await TestContext.Client.GetAsync("groot");
 
             //assert
-            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+            Assert.Equal(HttpStatusCode.NotFound, response.StatusCode);
         }
 
         [Fact]
@@ -56,6 +56,5 @@ namespace RestGrootTest.Scenarios.Guardian
             //assert
             Assert.Equal("{\"error\":\"I am Groot!\"}", responseJson);
         }
-
     }
 }

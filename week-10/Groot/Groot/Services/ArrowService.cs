@@ -7,7 +7,7 @@ using Groot.Models;
 using System.Net;
 
 namespace Groot.Services
-{
+{ 
     public class ArrowService : Controller
     {
         public IActionResult ArrowCalculator(double distance, double time)
@@ -15,11 +15,10 @@ namespace Groot.Services
             if (time == 0 || distance < 0)
             {
                 return new NotFoundObjectResult(new Error());
-
             }
             else
             {
-                return Json(new CalculateSpeed(distance, time));
+                return new JsonResult(new CalculateSpeed(distance, time));
             }
         }
     }

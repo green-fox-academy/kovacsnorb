@@ -5,11 +5,12 @@ namespace Groot.Services
 {
     public class GuardianService : Controller
     {
-        public JsonResult GuardianTranslator(string message)
+        public IActionResult GuardianTranslator(string message)
         {
             if (message is null)
             {
-                return Json(new Error());
+                return new NotFoundObjectResult(new Error());
+                //return new Error();
             }
             else
             {
