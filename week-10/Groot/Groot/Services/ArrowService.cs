@@ -10,11 +10,12 @@ namespace Groot.Services
 {
     public class ArrowService : Controller
     {
-        internal JsonResult ArrowCalculator(double distance, double time)
+        internal IActionResult ArrowCalculator(double distance, double time)
         {
             if (time == 0 || distance < 0)
             {
-                return Json(new Error());
+                return new NotFoundObjectResult(new Error());
+
             }
             else
             {

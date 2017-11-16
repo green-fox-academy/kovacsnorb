@@ -35,7 +35,7 @@ namespace RestGrootTest.Scenarios.Guardian
             var response = await TestContext.Client.GetAsync("yondu");
 
             //assert
-            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
+            Assert.Equal(HttpStatusCode.NotFound, response.StatusCode);
         }
 
         [Fact]
