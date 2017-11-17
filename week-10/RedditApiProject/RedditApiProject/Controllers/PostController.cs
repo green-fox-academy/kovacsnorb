@@ -33,5 +33,21 @@ namespace RedditApiProject.Controllers
             postRepository.AddPostToList(postFromBody);
             return Json(postRepository.GetLastPost());
         }
+
+        [HttpPut]
+        [Route("posts/{id}/upvote")]
+        public IActionResult UpvotePosts([FromRoute] int id)
+        {
+            postRepository.UpvotePost(id);
+            return Json(postRepository.GetPostById(id));
+        }
+
+        [HttpPut]
+        [Route("posts/{id}/downvote")]
+        public IActionResult DownvotePosts([FromRoute] int id)
+        {
+            postRepository.DownvotePost(id);
+            return Json(postRepository.GetPostById(id));
+        }
     }
 }

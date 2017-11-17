@@ -31,5 +31,24 @@ namespace RedditApiProject.Repositories
             postContext.Posts.Add(post);
             postContext.SaveChanges();
         }
+
+        public void UpvotePost(int id)
+        {
+            var postToUpvote = postContext.Posts.FirstOrDefault(p => p.Id == id);
+            postToUpvote.Score++;
+            postContext.SaveChanges();
+        }
+
+        public void DownvotePost(int id)
+        {
+            var postToDownvote = postContext.Posts.FirstOrDefault(p => p.Id == id);
+            postToDownvote.Score--;
+            postContext.SaveChanges();
+        }
+
+        public Post GetPostById(int id)
+        {
+            return postContext.Posts.FirstOrDefault(p => p.Id == id);
+        }
     }
 }
