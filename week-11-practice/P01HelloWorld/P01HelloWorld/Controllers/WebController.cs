@@ -12,13 +12,15 @@ namespace P01HelloWorld.Controllers
     [Route("web")]
     public class WebController : Controller
     {
+        public static int counter = 0;
+
         [Route("greeting")]
-        public IActionResult Greeting()
+        public IActionResult Greeting([FromQuery] string name)
         {
             var greeting = new Greeting()
             {
-                Id = 1,
-                Content = "Bercike's World"
+                Id = ++counter,
+                Content = name
             };
 
             return View(greeting);
