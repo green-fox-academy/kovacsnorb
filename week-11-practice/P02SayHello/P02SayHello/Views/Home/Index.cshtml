@@ -1,0 +1,22 @@
+﻿@model P02SayHello.Models.Sayhello
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+        @{
+            Random random = new Random();
+            foreach (var hello in Model.ListHello())
+            {
+                var size = random.Next(10,100);
+                <span style=
+                      "background-color:rgb(@random.Next(255), @random.Next(255), @random.Next(255)); 
+                      color:rgb(@random.Next(255), @random.Next(255), @random.Next(255));
+                      font-size: @size">
+                    @hello
+                </span>
+            }
+        }
+    </p>
+</body>
+</html>
