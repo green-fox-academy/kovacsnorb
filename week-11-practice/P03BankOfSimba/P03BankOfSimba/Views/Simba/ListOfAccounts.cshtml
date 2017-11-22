@@ -20,12 +20,15 @@
             <td width="140">
                 Animal type
             </td>
+            <td width="140">
+                Is he/she the King?
+            </td>
         </tr>
         @{
             int counter = 1;
             foreach (var account in Model)
             {
-                <tr>
+                <tr style="@(account.IsKing ? "background-color : gold; font-family: 'Gill Sans'; font-size: 30px" : "background-color : white")">
                     <td>
                         @counter
                     </td>
@@ -37,6 +40,9 @@
                     </td>
                     <td>
                         @account.AnimalType
+                    </td>
+                    <td>
+                        @(account.IsKing ? "King" : "Not king")
                     </td>
                 </tr>
                 counter++;
