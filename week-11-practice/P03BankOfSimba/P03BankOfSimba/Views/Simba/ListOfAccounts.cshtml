@@ -9,6 +9,9 @@
     <table border="1">
         <tr>
             <td width="140">
+                Number
+            </td>
+            <td width="140">
                 Name
             </td>
             <td width="140">
@@ -19,9 +22,13 @@
             </td>
         </tr>
         @{
+            int counter = 1;
             foreach (var account in Model)
             {
                 <tr>
+                    <td>
+                        @counter
+                    </td>
                     <td>
                         @account.Name
                     </td>
@@ -32,6 +39,7 @@
                         @account.AnimalType
                     </td>
                 </tr>
+                counter++;
             }
         }
     </table>
