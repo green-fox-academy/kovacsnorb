@@ -27,6 +27,7 @@ namespace P03BankOfSimba
             }
 
             app.UseMvc();
+            app.UseStaticFiles();
 
             app.Run(async (context) =>
             {

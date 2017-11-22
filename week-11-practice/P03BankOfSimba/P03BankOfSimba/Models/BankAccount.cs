@@ -7,13 +7,14 @@ namespace P03BankOfSimba.Models
 {
     public class BankAccount
     {
-        public BankAccount(string name, double balance, Animal animalType, bool isKing)
+        public BankAccount(string name, double balance, Animal animalType, bool isKing, bool isGoodGuy)
         {
             Name = name;
             Balance = string.Format("{0:0.00}", balance);
             AnimalType = animalType;
             Currency = "Zebra";
             IsKing = isKing;
+            IsGoodGuy = isGoodGuy;
         }
 
         public string Name { get; set; }
@@ -21,5 +22,6 @@ namespace P03BankOfSimba.Models
         public Animal AnimalType { get; set; }
         public string Currency { get; set; }
         public bool IsKing { get; set; }
+        public bool IsGoodGuy { get; set; }
     }
 }

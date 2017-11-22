@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
+    <link rel="stylesheet" type="text/css" href="~/Css/StyleSheet.css" />
 </head>
 <body>
     <h1>Accounts of the Bank</h1>
@@ -23,12 +24,15 @@
             <td width="140">
                 Is he/she the King?
             </td>
+            <td width="140">
+                Is he/she a good guy?
+            </td>
         </tr>
         @{
             int counter = 1;
             foreach (var account in Model)
             {
-                <tr style="@(account.IsKing ? "background-color : gold; font-family: 'Gill Sans'; font-size: 30px" : "background-color : white")">
+                <tr style="@(account.IsKing ? "background-color : gold; font-family: 'Gill Sans'; font-size: 30px" : "background-color : azure")">
                     <td>
                         @counter
                     </td>
@@ -43,6 +47,9 @@
                     </td>
                     <td>
                         @(account.IsKing ? "King" : "Not king")
+                    </td>
+                    <td>
+                        @(account.IsGoodGuy ? "Good guy" : "Bad guy")
                     </td>
                 </tr>
                 counter++;
