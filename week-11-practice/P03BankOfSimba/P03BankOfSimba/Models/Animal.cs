@@ -7,6 +7,9 @@ namespace P03BankOfSimba.Models
 {
     public enum Animal
     {
-        Lion
+        Lion,
+        Monkey,
+        Parrot,
+        Shark
     }
 }

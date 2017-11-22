@@ -1,0 +1,40 @@
+﻿@model List<P03BankOfSimba.Models.BankAccount>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Accounts of the Bank</h1>
+
+    <table border="1">
+        <tr>
+            <td width="140">
+                Name
+            </td>
+            <td width="140">
+                Account
+            </td>
+            <td width="140">
+                Animal type
+            </td>
+        </tr>
+        @{
+            foreach (var account in Model)
+            {
+                <tr>
+                    <td>
+                        @account.Name
+                    </td>
+                    <td>
+                        @account.Balance @account.Currency
+                    </td>
+                    <td>
+                        @account.AnimalType
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+
+</body>
+</html>
