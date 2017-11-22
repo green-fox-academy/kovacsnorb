@@ -11,17 +11,7 @@ namespace P03BankOfSimba.Controllers
 {
     public class SimbaController : Controller
     {
-        [Route("simba")]
-        public IActionResult SimbaAccount()
-        {
-            var account = new BankAccount("Simba", 2000, Animal.Lion, false, true);
-            return View(account);
-        }
-
-        [Route("accountlist")]
-        public IActionResult ListOfAccounts()
-        {
-            var accountList = new List<BankAccount>()
+        public static List<BankAccount> accountList = new List<BankAccount>()
             {
                 new BankAccount("Simba", 2000, Animal.Lion, false, true),
                 new BankAccount("Pityuka", 5000, Animal.Parrot, false, true),
@@ -32,7 +22,29 @@ namespace P03BankOfSimba.Controllers
                 new BankAccount("Szonja", 35576, Animal.Lion, false, true),
             };
 
+        [Route("simba")]
+        public IActionResult SimbaAccount()
+        {
+            var account = new BankAccount("Simba", 2000, Animal.Lion, false, true);
+            return View(account);
+        }
+
+        [Route("accountlist")]
+        public IActionResult ListOfAccounts()
+        {
             return View(accountList);
+        }
+
+        [Route("addtoaccount")]
+        [HttpPost]
+        public IActionResult RaiseAccount()
+        {
+            foreach (var account in accountList)
+            {
+                account.Balance = account.RaiseAccount();
+            }
+
+            return View("listofaccounts", accountList);
         }
     }
 }

@@ -10,7 +10,7 @@ namespace P03BankOfSimba.Models
         public BankAccount(string name, double balance, Animal animalType, bool isKing, bool isGoodGuy)
         {
             Name = name;
-            Balance = string.Format("{0:0.00}", balance);
+            Balance = balance;
             AnimalType = animalType;
             Currency = "Zebra";
             IsKing = isKing;
@@ -18,10 +18,25 @@ namespace P03BankOfSimba.Models
         }
 
         public string Name { get; set; }
-        public string Balance { get; set; }
+        public double Balance { get; set; }
         public Animal AnimalType { get; set; }
         public string Currency { get; set; }
         public bool IsKing { get; set; }
         public bool IsGoodGuy { get; set; }
+
+        public double RaiseAccount()
+        {
+            double newBalance; 
+            
+            if (IsKing)
+            {
+                newBalance = Balance + 100;
+            }
+            else
+            {
+                newBalance = Balance + 10;
+            }
+            return newBalance;
+        }
     }
 }
