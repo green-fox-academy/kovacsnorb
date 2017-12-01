@@ -1,4 +1,5 @@
-﻿<html xmlns="http://www.w3.org/1999/xhtml">
+﻿@model List<SchoolDataBaseTest.Models.StudentAddress>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
 </head>
@@ -6,5 +7,20 @@
     <h1>
         You can find info about students here
     </h1>
+
+    @{ 
+        foreach (var student in Model)
+        {
+            @*@student.Student.StudentId <br />*@
+            @student.Student.StudentName <br />
+            @*@student.StudentAddressId <br /> 
+            @student.StudentId <br/>*@
+            @student.Country <br />
+            @student.City <br />
+            @student.Address <br />
+            @student.Zipcode <br /><br />
+        }
+    }
+
 </body>
 </html>

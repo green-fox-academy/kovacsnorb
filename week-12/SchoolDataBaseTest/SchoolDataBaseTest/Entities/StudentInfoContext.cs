@@ -16,5 +16,6 @@ namespace SchoolDataBaseTest.Entities
 
         public DbSet<Student> Students { get; set; }
         public DbSet<StudentAddress> StudentAddresses { get; set; }
+
     }
 }
