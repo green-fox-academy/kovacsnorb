@@ -12,5 +12,7 @@ namespace SchoolDataBaseTest.Models
         public string StudentName { get; set; }
 
         public StudentAddress Address { get; set; }
+        [JsonIgnore]
+        public Grade Grade { get; set; }
     }
 }

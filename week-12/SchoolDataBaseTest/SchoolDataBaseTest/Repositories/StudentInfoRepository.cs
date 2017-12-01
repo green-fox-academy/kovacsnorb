@@ -27,6 +27,11 @@ namespace SchoolDataBaseTest.Repositories
             return studentInfoContext.StudentAddresses.Include(a => a.Student).ToList();
         }
 
+        public List<Grade> GetGrades()
+        {
+            return studentInfoContext.Grades.Include(a => a.Students).ToList();
+        }
+
         public void AddStudent(string name)
         {
             var student = new Student()
@@ -50,6 +55,27 @@ namespace SchoolDataBaseTest.Repositories
             };
 
             studentInfoContext.StudentAddresses.Add(myAddress);
+            studentInfoContext.SaveChanges();
+        }
+
+        public void AddGrade(string grade, string gradeAnimal)
+        {
+            var myGrade = new Grade()
+            {
+                GrandeName = grade,
+                GradeAnimal = gradeAnimal
+            };
+
+            studentInfoContext.Grades.Add(myGrade);
+            studentInfoContext.SaveChanges();
+        }
+
+        public void SetGrade(int grade, int studentId)
+        {
+            var myStudent = studentInfoContext.Students.Where(a => a.StudentId == studentId).FirstOrDefault();
+            var myGrade = studentInfoContext.Grades.Where(a => a.GradeId == grade).FirstOrDefault();
+            myStudent.Grade = myGrade;
+
             studentInfoContext.SaveChanges();
         }
     }
