@@ -12,7 +12,7 @@ namespace SchoolDataBaseTest.Models
         public string GrandeName { get; set; }
         public string GradeAnimal { get; set; }
 
-        //[JsonIgnore]
+        [JsonIgnore]
         public ICollection<Student> Students { get; set; }
     }
 }

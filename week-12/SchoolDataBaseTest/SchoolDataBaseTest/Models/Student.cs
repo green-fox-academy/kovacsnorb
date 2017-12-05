@@ -11,8 +11,9 @@ namespace SchoolDataBaseTest.Models
         public int StudentId { get; set; }
         public string StudentName { get; set; }
 
+        //[JsonIgnore]
         public StudentAddress Address { get; set; }
-        [JsonIgnore]
+        //[JsonIgnore]
         public Grade Grade { get; set; }
     }
 }

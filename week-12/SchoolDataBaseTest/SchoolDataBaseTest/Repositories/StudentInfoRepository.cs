@@ -19,7 +19,7 @@ namespace SchoolDataBaseTest.Repositories
 
         public List<Student> GetStudents()
         {
-            return studentInfoContext.Students.Include(a => a.Address).ToList();
+            return studentInfoContext.Students.Include(a => a.Address).Include(a => a.Grade).ToList();
         }
 
         public List<StudentAddress> GetAddresses()
