@@ -41,6 +41,14 @@ namespace SchoolDataBaseTest.Controllers
             return new JsonResult(gradeList);
         }
 
+        [Route("api/subjects")]
+        public IActionResult Subjects()
+        {
+            var subjectList = new List<Subject>();
+            subjectList = studentInfoRepository.GetSubjects();
+            return new JsonResult(subjectList);
+        }
+
         [Route("studentinfo")]
         public IActionResult StudentInfo()
         {
@@ -77,6 +85,18 @@ namespace SchoolDataBaseTest.Controllers
             return Ok();
         }
 
+        [Route("initialsubject")]
+        public IActionResult AddNewSubjects()
+        {
+            studentInfoRepository.AddSubject("Maths");
+            studentInfoRepository.AddSubject("English");
+            studentInfoRepository.AddSubject("Arts");
+            studentInfoRepository.AddSubject("Biology");
+            studentInfoRepository.AddSubject("Chemistry");
+
+            return Ok();
+        }
+
         [Route("addstudent")]
         public IActionResult AddOneStudent([FromQuery] string surname, string firstname)
         {
@@ -95,6 +115,13 @@ namespace SchoolDataBaseTest.Controllers
         public IActionResult AddGradeToStudent([FromQuery] int grade, int studentId)
         {
             studentInfoRepository.SetGrade(grade, studentId);
+            return Ok();
+        }
+
+        [Route("setsubject")]
+        public IActionResult AddSubjectToStudent([FromQuery] int subject, int studentId)
+        {
+            studentInfoRepository.SetSubject(subject, studentId);
             return Ok();
         }
     }

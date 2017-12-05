@@ -73,6 +73,31 @@ namespace SchoolDataBaseTest.Migrations
                     b.ToTable("StudentAddresses");
                 });
 
+            modelBuilder.Entity("SchoolDataBaseTest.Models.StudentSubject", b =>
+                {
+                    b.Property<int>("StudentId");
+
+                    b.Property<int>("SubjectId");
+
+                    b.HasKey("StudentId", "SubjectId");
+
+                    b.HasIndex("SubjectId");
+
+                    b.ToTable("StudentSubjects");
+                });
+
+            modelBuilder.Entity("SchoolDataBaseTest.Models.Subject", b =>
+                {
+                    b.Property<int>("SubjectId")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("SubjectName");
+
+                    b.HasKey("SubjectId");
+
+                    b.ToTable("Subjects");
+                });
+
             modelBuilder.Entity("SchoolDataBaseTest.Models.Student", b =>
                 {
                     b.HasOne("SchoolDataBaseTest.Models.Grade", "Grade")
@@ -85,6 +110,19 @@ namespace SchoolDataBaseTest.Migrations
                     b.HasOne("SchoolDataBaseTest.Models.Student", "Student")
                         .WithOne("Address")
                         .HasForeignKey("SchoolDataBaseTest.Models.StudentAddress", "StudentId")
+                        .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("SchoolDataBaseTest.Models.StudentSubject", b =>
+                {
+                    b.HasOne("SchoolDataBaseTest.Models.Student", "Student")
+                        .WithMany("StudentSubjects")
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("SchoolDataBaseTest.Models.Subject", "Subject")
+                        .WithMany("StudentSubjects")
+                        .HasForeignKey("SubjectId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
