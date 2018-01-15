@@ -9,27 +9,11 @@ namespace FindLetter
         {
             Console.WriteLine("The search will be case insensitive!");
             Console.Write("Give me a string: ");
-            string inputString = Console.ReadLine().ToLower();
-            List<int> result = new List<int>();
-
+            string inputString = Console.ReadLine().ToLower();      
             Console.Write("Give me a letter: ");
             string originalInput = Console.ReadLine();
 
-            if (originalInput.Length == 1)
-            {
-                char inputLetter = Convert.ToChar(originalInput);
-                inputLetter = Char.ToLower(inputLetter);
-
-                result = FindOccurences(inputString, inputLetter);
-                PrintResult(inputLetter, result);
-
-                Console.ReadLine();
-            }
-            else
-            {
-                Console.WriteLine("Please, start again, and give me just one letter...");
-                Console.ReadLine();
-            }
+            Execute(inputString, originalInput);
         }
 
         public static List<int> FindOccurences(string myInputString, char myInputLetter)
@@ -60,6 +44,27 @@ namespace FindLetter
                 {
                     Console.Write($"[{element}] ");
                 }
+            }
+        }
+
+        public static void Execute(string inputString, string letter)
+        {
+            List<int> result = new List<int>();
+
+            if (letter.Length == 1)
+            {
+                char inputLetter = Convert.ToChar(letter);
+                inputLetter = Char.ToLower(inputLetter);
+
+                result = FindOccurences(inputString, inputLetter);
+                PrintResult(inputLetter, result);
+
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("Please, start again, and give me just one letter...");
+                Console.ReadLine();
             }
         }
     }
